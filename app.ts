@@ -1,3 +1,2 @@
 import Express from 'express'
-
-console.log(1);
+import axios from 'axios'
