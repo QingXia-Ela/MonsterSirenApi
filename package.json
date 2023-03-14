@@ -7,7 +7,8 @@
   "scripts": {
     "start": "nodemon dist/app.js",
     "dev": "tsc -w",
-    "build": "tsc"
+    "build": "tsc",
+    "sync:info": "node packages/bin/sync.js -info"
   },
   "repository": {
     "type": "git",
