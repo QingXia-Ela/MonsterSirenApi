@@ -8,6 +8,7 @@
     "start": "nodemon dist/app.js",
     "dev": "tsc -w",
     "build": "tsc",
+    "test": "mocha",
     "sync:info": "node packages/bin/sync.js -info"
   },
   "repository": {
