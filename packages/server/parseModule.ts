@@ -16,9 +16,11 @@ export default function (modules?: SingleModule[]) {
       const route = '/' + (i as string)
         .replaceAll(/\$/g, ':')
         .replaceAll(/_/g, '/')
+      const mark = i
 
       res.push({
         route,
+        mark,
         handler: FinalModules[i]
       })
     }

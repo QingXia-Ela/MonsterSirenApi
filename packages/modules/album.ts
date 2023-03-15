@@ -12,7 +12,7 @@ export const album_$id_detail = function (collect, request) {
     params
   } = collect
 
-  if (!params || !params.id) {
+  if (!params?.id) {
     throw new Error('专辑 id 不能为空！')
   }
 
@@ -29,7 +29,7 @@ export const album_$id_data = function (collect, request) {
     params
   } = collect
 
-  if (!params || !params.id) {
+  if (!params?.id) {
     throw new Error('专辑 id 不能为空！')
   }
 

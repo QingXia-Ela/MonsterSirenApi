@@ -13,5 +13,6 @@ export type RequestFunction<T = object> = (
 
 export interface SingleModule {
   route: string,
+  mark: string,
   handler: RequestFunction
 }

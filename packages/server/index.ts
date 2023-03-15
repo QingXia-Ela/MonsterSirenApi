@@ -6,13 +6,16 @@ import getCurrentTime from "../utils/getCurrentTime";
 
 function regRoute(app: express.Express) {
   const modules = parseModule()
+
   for (const { route, handler } of modules) {
-    app.use(route, async ({ query, params, body, originalUrl }, res) => {
+    app.use(route, async ({ query, params, body, originalUrl }, res, next) => {
       const collect = {
         query,
         params,
         body
       }
+
+      console.log(route, originalUrl);
 
       try {
         const response = await handler(collect, (method, url, config = {}) => {
@@ -32,6 +35,7 @@ function regRoute(app: express.Express) {
       }
     })
   }
+  console.log(app._router);
 }
 
 function createServer() {
