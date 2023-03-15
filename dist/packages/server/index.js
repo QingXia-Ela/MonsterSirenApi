@@ -1,9 +1,39 @@
 import express from "express";
-import * as AllModules from '../modules/AllModules';
+import parseModule from "./parseModule";
+import request from '../utils/request';
+import chalk from 'chalk';
+import getCurrentTime from "../utils/getCurrentTime";
+function regRoute(app) {
+    const modules = parseModule();
+    for (const { route, handler } of modules) {
+        app.use(route, async ({ query, params, body, originalUrl }, res) => {
+            const collect = {
+                query,
+                params,
+                body
+            };
+            try {
+                const response = await handler(collect, (method, url, config = {}) => {
+                    return request({
+                        method,
+                        url,
+                        ...config
+                    });
+                });
+                console.log(`${chalk.green(`[200 OK] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
+                res.send(response);
+            }
+            catch (e) {
+                console.log(`${chalk.red(`[${e.code} ERROR] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
+                res.statusCode = 400;
+                res.send(e);
+            }
+        });
+    }
+}
 function createServer() {
     const app = express();
     const CORS_ALLOW_ORIGIN = false;
-    console.log(AllModules);
     /**
      * CORS & Preflight request
     */
@@ -19,6 +49,10 @@ function createServer() {
         }
         req.method === 'OPTIONS' ? res.status(204).end() : next();
     });
+    /**
+     * reg module
+     */
+    regRoute(app);
     return app;
 }
 export default function (options = {}) {

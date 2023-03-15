@@ -20,7 +20,8 @@
     }
   },
   "exclude": [
-    "./packages/bin/*",
-    "./dist/*"
+    "./packages/bin/**/*",
+    "./dist/*",
+    "./packages/declare/**/*"
   ]
 }
