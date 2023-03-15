@@ -3,19 +3,22 @@ import parseModule from "./parseModule";
 import request from '../utils/request';
 import chalk from 'chalk';
 import getCurrentTime from "../utils/getCurrentTime";
+import judgeCorrectPath from "../utils/judgeCorrectPath";
 
 function regRoute(app: express.Express) {
   const modules = parseModule()
 
   for (const { route, handler } of modules) {
     app.use(route, async ({ query, params, body, originalUrl }, res, next) => {
+      if (!judgeCorrectPath(route, originalUrl)) {
+        next()
+        return
+      }
       const collect = {
         query,
         params,
         body
       }
-
-      console.log(route, originalUrl);
 
       try {
         const response = await handler(collect, (method, url, config = {}) => {
@@ -28,14 +31,14 @@ function regRoute(app: express.Express) {
 
         console.log(`${chalk.green(`[200 OK] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
         res.send(response)
+        return
       } catch (e: any) {
         console.log(`${chalk.red(`[${e.code} ERROR] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
         res.statusCode = 400
-        res.send(e)
+        res.send()
       }
     })
   }
-  console.log(app._router);
 }
 
 function createServer() {

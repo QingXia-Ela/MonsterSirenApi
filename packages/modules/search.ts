@@ -28,7 +28,6 @@ export const search_album = function (collect, request) {
   if (!query?.keyword) {
     throw new Error('搜索关键词不能为空！')
   }
-  console.log(query);
 
   return request('get',
     `https://monster-siren.hypergryph.com/api/search/album`,
