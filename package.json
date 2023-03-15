@@ -5,8 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon --experimental-specifier-resolution=node dist/app.js",
+    "start": "tsc && node --experimental-specifier-resolution=node dist/app.js",
     "dev": "tsc -w",
+    "serve": "nodemon --experimental-specifier-resolution=node dist/app.js",
     "build": "tsc",
     "test": "mocha",
     "lint": "eslint \"**/*.{js,ts}\"",
