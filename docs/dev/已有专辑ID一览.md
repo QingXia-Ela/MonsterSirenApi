@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Tue Mar 14 2023 21:51:15 GMT+0800 (GMT+08:00)
+更新日期：Wed Mar 15 2023 21:19:00 GMT+0800 (GMT+08:00)
 
 - id: 6667，名字：吾导先路OST
 - id: 5104，名字：春分OST

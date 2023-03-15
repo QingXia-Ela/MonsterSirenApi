@@ -17,7 +17,7 @@ describe("大的组1测试", () => {
   })
   describe("小的组2测试", () => {
     it("sum(1) 1", () => {
-      assert.strictEqual(sum(1), 2)
+      assert.strictEqual(sum(1), 1)
     })
     it("sum(1,2) 3", () => {
       assert.strictEqual(sum(1, 2), 3)

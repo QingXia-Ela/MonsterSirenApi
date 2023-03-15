@@ -5,6 +5,7 @@ function subQuery(s: string) {
 }
 
 export default function (s1: string, s2: string) {
+
   s1 = subQuery(s1), s2 = subQuery(s2)
   const ns1 = s1.split('/'), ns2 = s2.split('/')
 

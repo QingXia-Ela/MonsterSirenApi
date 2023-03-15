@@ -9,7 +9,7 @@
     "dev": "tsc -w",
     "serve": "nodemon --experimental-specifier-resolution=node dist/app.js",
     "build": "tsc",
-    "test": "mocha",
+    "test": "tsc && mocha",
     "lint": "eslint \"**/*.{js,ts}\"",
     "lint-fix": "eslint --fix \"**/*.{js,ts}\"",
     "sync:info": "node packages/bin/sync.js -info"
