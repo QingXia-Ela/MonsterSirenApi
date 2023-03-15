@@ -33,9 +33,9 @@ function regRoute(app: express.Express) {
         res.send(response)
         return
       } catch (e: any) {
-        console.log(`${chalk.red(`[${e.code} ERROR] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
+        console.log(`${chalk.red(`[${e.code ?? '400'} ERROR] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
         res.statusCode = 400
-        res.send()
+        res.send(e.toString())
       }
     })
   }

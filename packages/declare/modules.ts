@@ -6,7 +6,7 @@ export type RequestUtil = (
   axiosRequestConfig?: AxiosRequestConfig
 ) => Promise<AxiosResponse>
 
-export type RequestFunction<T = object> = (
+export type RequestFunction<T = Record<string, any>> = (
   args: Record<string, unknown> & T,
   request: RequestUtil
 ) => ReturnType<typeof request>
