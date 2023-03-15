@@ -1,3 +1,5 @@
 export * from './album'
 export * from './search'
 export * from './song'
+export * from './trend'
+export * from './other'
