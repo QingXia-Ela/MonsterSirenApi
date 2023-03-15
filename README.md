@@ -20,6 +20,7 @@ node v16.15.0 及以上，并支持 `--experimental-specifier-resolution=node` �
 
 ```bash
 git clone https://github.com/QingXia-Ela/MonsterSirenApi.git
+cd MonsterSirenApi
 pnpm i
 ```
 
