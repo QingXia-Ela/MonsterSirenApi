@@ -3,8 +3,8 @@
   "ignore": [
     "*.test.js",
     "./packages/bin/*",
-    "./dist/**/*",
-    "./docs/**/*"
+    "./docs/**/*",
+    "./dist/**/*.d.ts"
   ],
   "execMap": {
     "rb": "ruby",

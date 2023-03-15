@@ -1,2 +1,3 @@
-import Express from 'express'
-import axios from 'axios'
+import server from './packages/server'
+
+server()

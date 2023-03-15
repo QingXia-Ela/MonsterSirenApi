@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.excalidraw": "json",
+    "*.excalidrawlib": "json",
+    "*.vue": "vue",
+    "*.html": "html",
+    "*.md": "markdown",
+    "ostream": "cpp"
+  }
+}
