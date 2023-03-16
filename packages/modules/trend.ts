@@ -3,7 +3,8 @@ import { ProxyRequestUtil as r } from '../utils/request'
 
 type SR = string | number
 
-export const recommends = function ({ request = r }) {
+export const recommends = function (o) {
+  const { request = r } = o ?? {}
   return request(
     'get',
     `https://monster-siren.hypergryph.com/api/recommends`
@@ -22,8 +23,8 @@ export const news = function ({ request = r, lastCid }) {
   lastCid?: SR
 }>
 
-export const news_$id = function ({ request = r, id, lastCid }) {
-
+export const news_$id = function (o) {
+  const { request = r, id, lastCid } = o ?? {}
   if (!id) throw new Error('新闻id不能为空！')
 
   return request(
