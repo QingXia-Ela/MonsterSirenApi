@@ -1,12 +1,7 @@
 import * as AllModules from '../modules/AllModules'
 import { SingleModule } from '../declare/modules'
+import isValidKey from '../utils/isValidKey'
 
-function isValidKey(
-  key: string | number | symbol,
-  object: object
-): key is keyof typeof object {
-  return key in object;
-}
 
 export default function (modules?: SingleModule[]) {
   const res: SingleModule[] = [], FinalModules = modules ?? AllModules

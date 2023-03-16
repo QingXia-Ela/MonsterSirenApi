@@ -1,13 +1,14 @@
 import { RequestFunction as RF } from "../declare/modules"
+import { ProxyRequestUtil as r } from '../utils/request'
 
-export const albums = function (collect, request) {
+export const albums = function (collect, request = r) {
   return request(
     'get',
     `https://monster-siren.hypergryph.com/api/albums`
   )
 } as RF
 
-export const album_$id_detail = function (collect, request) {
+export const album_$id_detail = function (collect, request = r) {
   const {
     params
   } = collect
@@ -24,7 +25,7 @@ export const album_$id_detail = function (collect, request) {
   params: Record<string, unknown>
 }>
 
-export const album_$id_data = function (collect, request) {
+export const album_$id_data = function (collect, request = r) {
   const {
     params
   } = collect

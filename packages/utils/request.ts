@@ -1,4 +1,5 @@
 import axios from 'axios';
+import { RequestUtil } from 'packages/declare/modules';
 import qs from 'querystring';
 
 axios.defaults.timeout = 5000;
@@ -52,5 +53,7 @@ axios.interceptors.response.use(
     }
   },
 );
+
+export const ProxyRequestUtil: RequestUtil = (method, url, c) => axios({ method, url, ...c })
 
 export default axios;

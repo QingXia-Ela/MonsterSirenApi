@@ -1,6 +1,7 @@
 import { RequestFunction as RF } from "../declare/modules"
+import { ProxyRequestUtil as r } from '../utils/request'
 
-export const recommends = function (c, request) {
+export const recommends = function (c, request = r) {
   return request(
     'get',
     `https://monster-siren.hypergryph.com/api/recommends`
@@ -20,7 +21,7 @@ export const news = function (c, request) {
   )
 } as RF
 
-export const news_$id = function (c, request) {
+export const news_$id = function (c, request = r) {
   const {
     params,
     query

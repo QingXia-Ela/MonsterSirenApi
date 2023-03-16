@@ -1,6 +1,7 @@
 import { RequestFunction as RF } from "../declare/modules"
+import { ProxyRequestUtil as r } from '../utils/request'
 
-export const search = function (collect, request) {
+export const search = function (collect, request = r) {
   const {
     query
   } = collect
@@ -20,7 +21,7 @@ export const search = function (collect, request) {
   query: { keyword: string }
 }>
 
-export const search_album = function (collect, request) {
+export const search_album = function (collect, request = r) {
   const {
     query
   } = collect
@@ -39,7 +40,7 @@ export const search_album = function (collect, request) {
   query: { keyword: string, lastCid?: string }
 }>
 
-export const search_news = function (collect, request) {
+export const search_news = function (collect, request = r) {
   const {
     query
   } = collect
