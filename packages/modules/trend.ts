@@ -36,5 +36,4 @@ export const news_$id = function ({ request = r, id, lastCid }) {
 } as RF<{
   id: SR,
   lastCid?: SR
-
 }>

@@ -14,19 +14,19 @@ function regRoute(app: express.Express) {
         next()
         return
       }
-      const collect = {
-        query,
-        params,
-        body
-      }
 
       try {
-        const response = await handler(collect, (method, url, config = {}) => {
-          return request({
-            method,
-            url,
-            ...config
-          })
+        const response = await handler({
+          ...query,
+          ...params,
+          ...body,
+          request: (method, url, config = {}) => {
+            return request({
+              method,
+              url,
+              ...config
+            })
+          }
         })
 
         console.log(`${chalk.green(`[200 OK] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
