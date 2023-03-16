@@ -4,6 +4,9 @@ import request from '../utils/request';
 import chalk from 'chalk';
 import getCurrentTime from "../utils/getCurrentTime";
 import judgeCorrectPath from "../utils/judgeCorrectPath";
+import { AxiosResponse } from "axios";
+
+const CacheMap = new Map<string, AxiosResponse>()
 
 function regRoute(app: express.Express) {
   const modules = parseModule()
@@ -16,7 +19,8 @@ function regRoute(app: express.Express) {
       }
 
       try {
-        const response = await handler({
+        const hasCache = CacheMap.has(originalUrl)
+        const response = hasCache ? CacheMap.get(originalUrl) as AxiosResponse : await handler({
           ...query,
           ...params,
           ...body,
@@ -29,7 +33,16 @@ function regRoute(app: express.Express) {
           }
         })
 
-        console.log(`${chalk.green(`[200 OK] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
+        console.log(`${chalk.green(`[200 OK${hasCache ? ' Cache Used' : ''}] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
+
+        if (!hasCache) {
+          CacheMap.set(originalUrl, response)
+
+          setTimeout(() => {
+            CacheMap.delete(originalUrl)
+          }, 60000);
+        }
+
         res.send(response)
         return
       } catch (e: any) {
