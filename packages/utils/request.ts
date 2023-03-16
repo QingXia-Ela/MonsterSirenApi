@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { RequestUtil } from 'packages/declare/modules';
+import { RequestUtil } from '../declare/modules';
 import qs from 'querystring';
 
 axios.defaults.timeout = 5000;
