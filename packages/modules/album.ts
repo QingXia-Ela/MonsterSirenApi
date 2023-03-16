@@ -1,43 +1,43 @@
 import { RequestFunction as RF } from "../declare/modules"
 import { ProxyRequestUtil as r } from '../utils/request'
 
-export const albums = function (collect, request = r) {
+export const albums = function ({
+  request = r
+}) {
   return request(
     'get',
     `https://monster-siren.hypergryph.com/api/albums`
   )
 } as RF
 
-export const album_$id_detail = function (collect, request = r) {
-  const {
-    params
-  } = collect
-
-  if (!params?.id) {
+export const album_$id_detail = function ({
+  request = r,
+  id
+}) {
+  if (!id) {
     throw new Error('专辑 id 不能为空！')
   }
 
   return request(
     'GET',
-    `https://monster-siren.hypergryph.com/api/album/${params.id}/detail`
+    `https://monster-siren.hypergryph.com/api/album/${id}/detail`
   )
 } as RF<{
-  params: Record<string, unknown>
+  id: string
 }>
 
-export const album_$id_data = function (collect, request = r) {
-  const {
-    params
-  } = collect
-
-  if (!params?.id) {
+export const album_$id_data = function ({
+  request = r,
+  id
+}) {
+  if (!id) {
     throw new Error('专辑 id 不能为空！')
   }
 
   return request(
     'GET',
-    `https://monster-siren.hypergryph.com/api/album/${params.id}/data`
+    `https://monster-siren.hypergryph.com/api/album/${id}/data`
   )
 } as RF<{
-  params: { id: string }
+  id: string
 }>

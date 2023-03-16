@@ -6,10 +6,13 @@ export type RequestUtil = (
   axiosRequestConfig?: AxiosRequestConfig
 ) => Promise<AxiosResponse>
 
+export type RequestOptions<T> = {
+  request: RequestUtil,
+} & T
+
 export type RequestFunction<T = Record<string, any>> = (
-  args: Record<string, unknown> & T,
-  request: RequestUtil
-) => ReturnType<typeof request>
+  options: RequestOptions<T>
+) => ReturnType<RequestUtil>
 
 export interface SingleModule {
   route: string,

@@ -1,60 +1,45 @@
 import { RequestFunction as RF } from "../declare/modules"
 import { ProxyRequestUtil as r } from '../utils/request'
 
-export const search = function (collect, request = r) {
-  const {
-    query
-  } = collect
+export const search = function ({ request = r, keyword }) {
 
-  if (!query?.keyword) {
+  if (!keyword) {
     throw new Error('搜索关键词不能为空！')
   }
 
   return request('get',
     `https://monster-siren.hypergryph.com/api/search`,
     {
-      params: query
+      params: { keyword }
     }
   )
 
-} as RF<{
-  query: { keyword: string }
-}>
+} as RF<{ keyword: string }>
 
-export const search_album = function (collect, request = r) {
-  const {
-    query
-  } = collect
+export const search_album = function ({ request = r, keyword, lastCid }) {
 
-  if (!query?.keyword) {
+  if (keyword) {
     throw new Error('搜索关键词不能为空！')
   }
 
   return request('get',
     `https://monster-siren.hypergryph.com/api/search/album`,
     {
-      params: query
+      params: { keyword, lastCid }
     }
   )
-} as RF<{
-  query: { keyword: string, lastCid?: string }
-}>
+} as RF<{ keyword: string, lastCid?: string }>
 
-export const search_news = function (collect, request = r) {
-  const {
-    query
-  } = collect
+export const search_news = function ({ request = r, keyword, lastCid }) {
 
-  if (!query?.keyword) {
+  if (!keyword) {
     throw new Error('搜索关键词不能为空！')
   }
 
   return request('get',
     `https://monster-siren.hypergryph.com/api/search/news`,
     {
-      params: query
+      params: { keyword, lastCid }
     }
   )
-} as RF<{
-  query: { keyword: string, lastCid?: string }
-}>
+} as RF<{ keyword: string, lastCid?: string }>
