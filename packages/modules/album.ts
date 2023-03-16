@@ -1,6 +1,14 @@
 import { RequestFunction as RF } from "../declare/modules"
 import { ProxyRequestUtil as r } from '../utils/request'
 
+interface AlbumId {
+  /**
+   * 专辑 id
+   * @see https://github.com/QingXia-Ela/MonsterSirenApi/blob/main/docs/dev/%E5%B7%B2%E6%9C%89%E4%B8%93%E8%BE%91ID%E4%B8%80%E8%A7%88.md
+   */
+  id: string
+}
+
 export const albums = function (o) {
   const {
     request = r
@@ -24,9 +32,7 @@ export const album_$id_detail = function (o) {
     'GET',
     `https://monster-siren.hypergryph.com/api/album/${id}/detail`
   )
-} as RF<{
-  id: string
-}>
+} as RF<AlbumId>
 
 export const album_$id_data = function (o) {
   const {
@@ -42,6 +48,4 @@ export const album_$id_data = function (o) {
     'GET',
     `https://monster-siren.hypergryph.com/api/album/${id}/data`
   )
-} as RF<{
-  id: string
-}>
+} as RF<AlbumId>

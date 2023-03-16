@@ -1,6 +1,16 @@
 import { RequestFunction as RF } from "../declare/modules"
 import { ProxyRequestUtil as r } from '../utils/request'
 
+interface Keyword {
+  /** 必选，搜索关键词 */
+  keyword: string
+}
+
+interface LastCid {
+  /** 上次请求中的最后子项 */
+  lastCid?: string | number
+}
+
 export const search = function (o) {
   const { request = r, keyword } = o ?? {}
 
@@ -15,7 +25,7 @@ export const search = function (o) {
     }
   )
 
-} as RF<{ keyword: string }>
+} as RF<Keyword>
 
 export const search_album = function (o) {
   const { request = r, keyword, lastCid } = o ?? {}
@@ -30,7 +40,7 @@ export const search_album = function (o) {
       params: { keyword, lastCid }
     }
   )
-} as RF<{ keyword: string, lastCid?: string }>
+} as RF<Keyword & LastCid>
 
 export const search_news = function (o) {
   const { request = r, keyword, lastCid } = o ?? {}
@@ -45,4 +55,4 @@ export const search_news = function (o) {
       params: { keyword, lastCid }
     }
   )
-} as RF<{ keyword: string, lastCid?: string }>
+} as RF<Keyword & LastCid>

@@ -20,6 +20,7 @@ export const news = function ({ request = r, lastCid }) {
     }
   )
 } as RF<{
+  /** 上次请求中列表最后一项新闻的 id */
   lastCid?: SR
 }>
 
@@ -35,6 +36,8 @@ export const news_$id = function (o) {
     }
   )
 } as RF<{
+  /** 新闻 id */
   id: SR,
+  /** 上次请求中列表最后一项新闻的 id */
   lastCid?: SR
 }>
