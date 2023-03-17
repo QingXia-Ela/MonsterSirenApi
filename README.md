@@ -29,3 +29,21 @@ pnpm i
 ```bash
 npm start
 ```
+
+## api 引入说明
+
+### 使用方法
+
+```js
+import { albums, albums_$id_data } from 'MonsterSirenApi'
+
+// 直接使用，不需要参数
+albums().then(({data}) => {
+  console.log(data)
+})
+
+// 搭配参数使用，具体请参考接口一览文档
+albums_$id_data({ id: 6667 }).then(({data}) => {
+  console.log(data)
+})
+```

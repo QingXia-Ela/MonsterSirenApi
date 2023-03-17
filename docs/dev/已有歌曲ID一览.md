@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Wed Mar 15 2023 22:32:29 GMT+0800 (GMT+08:00)
+更新日期：Fri Mar 17 2023 11:44:41 GMT+0800 (GMT+08:00)
 
 - id: 125083，名字：殉道之人
 - id: 697636，名字：潜在危机

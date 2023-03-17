@@ -7,11 +7,12 @@ export type RequestUtil = (
 ) => Promise<AxiosResponse>
 
 export type RequestOptions<T> = {
-  request: RequestUtil,
+  /** 内置 request，不需要传入与覆盖 */
+  request?: RequestUtil,
 } & T
 
-export type RequestFunction<T = Record<string, any>> = (
-  options: RequestOptions<T>
+export type RequestFunction<T = object> = (
+  options: RequestOptions<Required<T>>
 ) => ReturnType<RequestUtil>
 
 export interface SingleModule {
