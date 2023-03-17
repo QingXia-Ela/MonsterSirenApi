@@ -1,6 +1,6 @@
 {
   "name": "monster-siren-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A api collect and server powered by nodejs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -25,7 +25,8 @@
     "lint": "eslint \"**/*.{js,ts}\"",
     "lint-fix": "eslint --fix \"**/*.{js,ts}\"",
     "sync:info": "node bin/sync.js -info",
-    "publish": "npm run test && npm publish"
+    "publish": "npm publish",
+    "prepublish": "npm run test"
   },
   "repository": {
     "type": "git",
