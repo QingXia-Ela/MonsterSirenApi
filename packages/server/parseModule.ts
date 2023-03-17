@@ -1,6 +1,6 @@
-import * as AllModules from '../modules/AllModules'
-import { SingleModule } from '../declare/modules'
-import isValidKey from '../utils/isValidKey'
+import * as AllModules from "../modules/AllModules"
+import { SingleModule } from "../declare/modules"
+import isValidKey from "../utils/isValidKey"
 
 
 export default function (modules?: SingleModule[]) {
@@ -8,9 +8,9 @@ export default function (modules?: SingleModule[]) {
 
   for (const i in FinalModules) {
     if (isValidKey(i, FinalModules)) {
-      const route = '/' + (i as string)
-        .replaceAll(/\$/g, ':')
-        .replaceAll(/_/g, '/')
+      const route = "/" + (i as string)
+        .replaceAll(/\$/g, ":")
+        .replaceAll(/_/g, "/")
       const mark = i
 
       res.push({

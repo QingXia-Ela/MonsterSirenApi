@@ -1,3 +1,3 @@
-import server from './packages/server'
+import server from "./packages/server"
 
 server()

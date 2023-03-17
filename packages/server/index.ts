@@ -1,7 +1,7 @@
 import express from "express";
 import parseModule from "./parseModule";
-import request from '../utils/request';
-import chalk from 'chalk';
+import request from "../utils/request";
+import chalk from "chalk";
 import getCurrentTime from "../utils/getCurrentTime";
 import judgeCorrectPath from "../utils/judgeCorrectPath";
 import { AxiosResponse } from "axios";
@@ -33,7 +33,7 @@ function regRoute(app: express.Express) {
           }
         })
 
-        console.log(`${chalk.green(`[200 OK${hasCache ? ' Cache Used' : ''}] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
+        console.log(`${chalk.green(`[200 OK${hasCache ? " Cache Used" : ""}] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
 
         if (!hasCache) {
           CacheMap.set(originalUrl, response)
@@ -46,7 +46,7 @@ function regRoute(app: express.Express) {
         res.send(response)
         return
       } catch (e: any) {
-        console.log(`${chalk.red(`[${e.code ?? '400'} ERROR] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
+        console.log(`${chalk.red(`[${e.code ?? "400"} ERROR] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
         res.statusCode = 400
         res.send(e.toString())
       }
@@ -63,17 +63,17 @@ function createServer() {
    * CORS & Preflight request
   */
   app.use((req, res, next) => {
-    if (req.path !== '/' && !req.path.includes('.')) {
+    if (req.path !== "/" && !req.path.includes(".")) {
       res.set({
-        'Access-Control-Allow-Credentials': true,
-        'Access-Control-Allow-Origin':
-          CORS_ALLOW_ORIGIN || req.headers.origin || '*',
-        'Access-Control-Allow-Headers': 'X-Requested-With,Content-Type',
-        'Access-Control-Allow-Methods': 'PUT,POST,GET,DELETE,OPTIONS',
-        'Content-Type': 'application/json; charset=utf-8',
+        "Access-Control-Allow-Credentials": true,
+        "Access-Control-Allow-Origin":
+          CORS_ALLOW_ORIGIN || req.headers.origin || "*",
+        "Access-Control-Allow-Headers": "X-Requested-With,Content-Type",
+        "Access-Control-Allow-Methods": "PUT,POST,GET,DELETE,OPTIONS",
+        "Content-Type": "application/json; charset=utf-8",
       })
     }
-    req.method === 'OPTIONS' ? res.status(204).end() : next()
+    req.method === "OPTIONS" ? res.status(204).end() : next()
   })
 
   /**
@@ -85,7 +85,7 @@ function createServer() {
 }
 
 export default function (options: Record<string, unknown> = {}) {
-  const port = Number(options.port || process.env.PORT || '3000')
+  const port = Number(options.port || process.env.PORT || "3000")
 
   const server = createServer()
 

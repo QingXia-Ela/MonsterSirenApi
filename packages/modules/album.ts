@@ -1,5 +1,5 @@
 import { RequestFunction as RF } from "../declare/modules"
-import { ProxyRequestUtil as r } from '../utils/request'
+import { ProxyRequestUtil as r } from "../utils/request"
 
 interface AlbumId {
   /**
@@ -14,8 +14,8 @@ export const albums = function (o) {
     request = r
   } = o ?? {}
   return request(
-    'get',
-    `https://monster-siren.hypergryph.com/api/albums`
+    "get",
+    "https://monster-siren.hypergryph.com/api/albums"
   )
 } as RF
 
@@ -25,11 +25,11 @@ export const album_$id_detail = function (o) {
     id
   } = o ?? {}
   if (!id) {
-    throw new Error('专辑 id 不能为空！')
+    throw new Error("专辑 id 不能为空！")
   }
 
   return request(
-    'GET',
+    "GET",
     `https://monster-siren.hypergryph.com/api/album/${id}/detail`
   )
 } as RF<AlbumId>
@@ -41,11 +41,11 @@ export const album_$id_data = function (o) {
   } = o ?? {}
 
   if (!id) {
-    throw new Error('专辑 id 不能为空！')
+    throw new Error("专辑 id 不能为空！")
   }
 
   return request(
-    'GET',
+    "GET",
     `https://monster-siren.hypergryph.com/api/album/${id}/data`
   )
 } as RF<AlbumId>

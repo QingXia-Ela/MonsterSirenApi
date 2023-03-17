@@ -1,6 +1,6 @@
 import { describe } from "node:test"
 
-declare module 'process' {
+declare module "process" {
   export default process
 }
 

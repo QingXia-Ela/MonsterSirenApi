@@ -18,5 +18,6 @@ module.exports = {
         "@typescript-eslint"
     ],
     "rules": {
+        "quotes": [2, "double"]
     }
 }

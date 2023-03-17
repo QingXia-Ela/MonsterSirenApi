@@ -1,13 +1,13 @@
 /* eslint-disable no-undef */
-import axios from 'axios'
-import fs from 'fs/promises'
-import path from 'path'
+import axios from "axios"
+import fs from "fs/promises"
+import path from "path"
 
 const argvSet = new Set(process.argv.slice(2))
 
 async function writeDocs(name, site, data) {
   const str = `来源于：${site}\n\n更新日期：${new Date()}\n\n`
-  await fs.writeFile(path.join('./docs/dev', name + '.md'), str + data, 'utf-8')
+  await fs.writeFile(path.join("./docs/dev", name + ".md"), str + data, "utf-8")
 }
 
 async function SyncInfoFromHy(name, site, handler) {
@@ -44,9 +44,9 @@ const requestList = [
   }
 ]
 
-if (argvSet.has('-info')) {
+if (argvSet.has("-info")) {
   Promise.all(requestList.map(async ({ name, site, handler }) => {
     await SyncInfoFromHy(name, site, handler)
   }))
-  console.log('同步信息至开发文档成功！');
+  console.log("同步信息至开发文档成功！");
 }
