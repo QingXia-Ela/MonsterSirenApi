@@ -6,6 +6,11 @@ import getCurrentTime from "../utils/getCurrentTime";
 import judgeCorrectPath from "../utils/judgeCorrectPath";
 import { AxiosResponse } from "axios";
 
+export interface ServerOptions {
+  /** 服务器端口 */
+  port?: number
+}
+
 const CacheMap = new Map<string, AxiosResponse>()
 
 function regRoute(app: express.Express) {
@@ -84,12 +89,19 @@ function createServer() {
   return app
 }
 
-export default function (options: Record<string, unknown> = {}) {
-  const port = Number(options.port || process.env.PORT || "3000")
+export default function (options: ServerOptions = {}) {
+  return new Promise<express.Express>((res, rej) => {
+    try {
+      const port = Number(options.port || process.env.PORT || "3000")
 
-  const server = createServer()
+      const server = createServer()
 
-  server.listen(port, () => {
-    console.log(`server running @ http://localhost:${port}`)
+      server.listen(port, () => {
+        console.log(`server running @ http://localhost:${port}`)
+        res(server)
+      })
+    } catch (e) {
+      rej(e)
+    }
   })
 }

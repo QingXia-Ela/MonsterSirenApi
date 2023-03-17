@@ -5,11 +5,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "tsc && node addSuffixJs.js && node dist/app.js",
     "dev": "tsc -w",
-    "serve": "tsc && nodemon --experimental-specifier-resolution=node dist/app.js",
     "build": "tsc && node addSuffixJs.js",
-    "test": "tsc && node addSuffixJs.js && mocha",
+    "start": "npm run build && node dist/app.js",
+    "serve": "nodemon --experimental-specifier-resolution=node dist/app.js",
+    "test": "npm run build && mocha",
     "lint": "eslint \"**/*.{js,ts}\"",
     "lint-fix": "eslint --fix \"**/*.{js,ts}\"",
     "sync:info": "node bin/sync.js -info"

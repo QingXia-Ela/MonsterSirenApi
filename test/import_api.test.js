@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-import { albums, search_news } from "../dist/packages/modules/AllModules";
+import { albums, search_news } from "../dist/packages/modules/AllModules.js";
 
 describe("测试 api 是否可以正常导入", () => {
   it("导入部分 api 并尝试使用", (done) => {

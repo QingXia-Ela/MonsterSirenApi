@@ -1,4 +1,3 @@
-import { AxiosResponse } from "axios"
 import { RequestFunction as RF } from "../declare/modules"
 import { ProxyRequestUtil as r } from "../utils/request"
 
