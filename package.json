@@ -1,9 +1,21 @@
 {
   "name": "monster-siren-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A api collect and server powered by nodejs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "type": "module",
+  "files": [
+    "/dist",
+    "LICENSE",
+    "README.md",
+    "package.json"
+  ],
+  "keywords": [
+    "monsterSiren",
+    "arknights",
+    "nodejs"
+  ],
   "scripts": {
     "dev": "tsc -w",
     "build": "tsc && node addSuffixJs.js",
