@@ -30,7 +30,7 @@ export const search = function (o) {
 export const search_album = function (o) {
   const { request = r, keyword, lastCid } = o ?? {}
 
-  if (keyword) {
+  if (!keyword) {
     throw new Error("搜索关键词不能为空！")
   }
 
