@@ -11,7 +11,8 @@ export const recommends = function (o) {
   )
 } as RF
 
-export const news = function ({ request = r, lastCid }) {
+export const news = function (o) {
+  const { request = r, lastCid } = o ?? {}
   return request(
     "get",
     "https://monster-siren.hypergryph.com/api/news",
@@ -25,19 +26,14 @@ export const news = function ({ request = r, lastCid }) {
 }>
 
 export const news_$id = function (o) {
-  const { request = r, id, lastCid } = o ?? {}
+  const { request = r, id } = o ?? {}
   if (!id) throw new Error("新闻id不能为空！")
 
   return request(
     "get",
     `https://monster-siren.hypergryph.com/api/news/${id}`,
-    {
-      params: { lastCid }
-    }
   )
 } as RF<{
   /** 新闻 id */
-  id: SR,
-  /** 上次请求中列表最后一项新闻的 id */
-  lastCid?: SR
+  id: SR
 }>

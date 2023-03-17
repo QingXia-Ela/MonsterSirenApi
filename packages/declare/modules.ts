@@ -12,7 +12,7 @@ export type RequestOptions<T> = {
 } & T
 
 export type RequestFunction<T = object> = (
-  options: RequestOptions<Required<T>>
+  options: RequestOptions<T>
 ) => ReturnType<RequestUtil>
 
 export interface SingleModule {
