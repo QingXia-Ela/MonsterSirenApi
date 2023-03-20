@@ -4,7 +4,7 @@ export type RequestUtil = (
   method: Method,
   url: string,
   axiosRequestConfig?: AxiosRequestConfig
-) => Promise<AxiosResponse>
+) => Promise<AxiosResponse | any>
 
 export type RequestOptions<T> = {
   /** 内置 request，不需要传入与覆盖 */

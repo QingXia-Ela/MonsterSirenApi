@@ -1,6 +1,6 @@
 {
   "name": "monster-siren-api",
-  "version": "1.0.4",
+  "version": "1.1.4",
   "description": "A api collect and server powered by nodejs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,20 +12,21 @@
     "package.json"
   ],
   "keywords": [
-    "monsterSiren",
+    "monster-siren",
     "arknights",
-    "nodejs"
+    "nodejs",
+    "塞壬唱片",
+    "明日方舟"
   ],
   "scripts": {
     "dev": "tsc -w",
     "build": "tsc && node addSuffixJs.js",
-    "start": "npm run build && node dist/app.js",
+    "start": "npm run build && node dist/server.js",
     "serve": "nodemon --experimental-specifier-resolution=node dist/app.js",
     "test": "npm run build && mocha",
     "lint": "eslint \"**/*.{js,ts}\"",
     "lint-fix": "eslint --fix \"**/*.{js,ts}\"",
-    "sync:info": "node bin/sync.js -info",
-    "publish": "npm publish"
+    "sync:info": "node bin/sync.js -info"
   },
   "repository": {
     "type": "git",
