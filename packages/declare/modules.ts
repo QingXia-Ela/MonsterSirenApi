@@ -1,9 +1,17 @@
-import { AxiosRequestConfig, AxiosResponse, Method } from "axios"
+import { AxiosResponse, Method } from "axios"
+
+type RO = Record<string, any>
+
+export interface RequestConfig {
+  params?: RO
+  body?: RO
+  query?: RO
+}
 
 export type RequestUtil = (
   method: Method,
   url: string,
-  axiosRequestConfig?: AxiosRequestConfig
+  requestConfig?: RequestConfig
 ) => Promise<AxiosResponse | any>
 
 export type RequestOptions<T> = {
