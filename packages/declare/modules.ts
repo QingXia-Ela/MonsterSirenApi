@@ -11,8 +11,8 @@ export type RequestOptions<T> = {
   request?: RequestUtil,
 } & T
 
-export type RequestFunction<T = object | undefined> = (
-  options: RequestOptions<T>
+export type RequestFunction<T = object> = (
+  options?: RequestOptions<T>
 ) => ReturnType<RequestUtil>
 
 export interface SingleModule {
