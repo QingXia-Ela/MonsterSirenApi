@@ -3,9 +3,10 @@ import { AxiosResponse, Method } from "axios"
 type RO = Record<string, any>
 
 export interface RequestConfig {
+  /** GET 请求后携带的参数，等价于 URL 后直接请求的参数 */
   params?: RO
+  /** 等价于 POST 请求中的内容体 */
   body?: RO
-  query?: RO
 }
 
 export type RequestUtil = (
