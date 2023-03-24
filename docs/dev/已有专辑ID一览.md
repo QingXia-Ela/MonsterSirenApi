@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Fri Mar 17 2023 11:44:41 GMT+0800 (GMT+08:00)
+更新日期：Fri Mar 24 2023 20:37:36 GMT+0800 (GMT+08:00)
 
+- id: 5103，名字：危机合约起源行动OST
 - id: 6667，名字：吾导先路OST
 - id: 5104，名字：春分OST
 - id: 0246，名字：春岚

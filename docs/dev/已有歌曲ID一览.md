@@ -1,7 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Fri Mar 17 2023 11:44:41 GMT+0800 (GMT+08:00)
+更新日期：Fri Mar 24 2023 20:37:36 GMT+0800 (GMT+08:00)
 
+- id: 232272，名字：ZeroPoint
+- id: 880341，名字：Operation Basepoint（Instrumental）
+- id: 697635，名字：Operation Basepoint
 - id: 125083，名字：殉道之人
 - id: 697636，名字：潜在危机
 - id: 048718，名字：圣城日常
