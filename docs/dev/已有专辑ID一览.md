@@ -1,7 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Fri Mar 24 2023 20:37:36 GMT+0800 (GMT+08:00)
+更新日期：Wed Apr 05 2023 10:29:37 GMT+0800 (GMT+08:00)
 
+- id: 1025，名字：水月与深蓝之树OST
+- id: 4511，名字：冉冉升起，直播新星
+- id: 7778，名字：8-bit弹雨与断罪之拳
 - id: 5103，名字：危机合约起源行动OST
 - id: 6667，名字：吾导先路OST
 - id: 5104，名字：春分OST
