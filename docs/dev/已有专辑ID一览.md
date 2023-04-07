@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Wed Apr 05 2023 10:29:37 GMT+0800 (GMT+08:00)
+更新日期：Fri Apr 07 2023 13:13:11 GMT+0800 (GMT+08:00)
 
+- id: 8939，名字：明日方舟OST4
+- id: 9380，名字：Squad Unknown
 - id: 1025，名字：水月与深蓝之树OST
 - id: 4511，名字：冉冉升起，直播新星
 - id: 7778，名字：8-bit弹雨与断罪之拳
