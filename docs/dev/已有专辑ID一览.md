@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Fri Apr 07 2023 13:13:11 GMT+0800 (GMT+08:00)
+更新日期：Tue Apr 18 2023 20:49:24 GMT+0800 (GMT+08:00)
 
+- id: 2452，名字：Endospore
 - id: 8939，名字：明日方舟OST4
 - id: 9380，名字：Squad Unknown
 - id: 1025，名字：水月与深蓝之树OST

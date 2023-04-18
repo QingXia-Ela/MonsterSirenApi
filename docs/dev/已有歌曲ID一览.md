@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Fri Apr 07 2023 13:13:11 GMT+0800 (GMT+08:00)
+更新日期：Tue Apr 18 2023 20:49:24 GMT+0800 (GMT+08:00)
 
+- id: 048713，名字：Endospore
 - id: 779406，名字：生存之形
 - id: 880348，名字：血中之泪
 - id: 953997，名字：震破呜咽
