@@ -1,4 +1,4 @@
-import { AxiosResponse, Method } from "axios"
+import { Method } from "axios"
 
 type RO = Record<string, any>
 
@@ -9,23 +9,29 @@ export interface RequestConfig {
   body?: RO
 }
 
-export type RequestUtil = (
+export type RequestUtil<U = object> = (
   method: Method,
   url: string,
   requestConfig?: RequestConfig
-) => Promise<AxiosResponse | any>
+) => Promise<U>
 
-export type RequestOptions<T> = {
+export type RequestOptions<T, U> = {
   /** 内置 request，不需要传入与覆盖 */
-  request?: RequestUtil,
+  request?: RequestUtil<U>,
 } & T
 
-export type RequestFunction<T = object> = (
-  options?: RequestOptions<T>
-) => ReturnType<RequestUtil>
+export type RequestFunction<T = object, U = object> = (
+  options?: RequestOptions<T, U>
+) => ReturnType<RequestUtil<U>>
 
 export interface SingleModule {
   route: string,
   mark: string,
   handler: RequestFunction
+}
+
+/** 基本响应结果 */
+export interface BasicResponse {
+  code: number,
+  msg: string
 }

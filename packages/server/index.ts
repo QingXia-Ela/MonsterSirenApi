@@ -41,6 +41,7 @@ function regRoute(app: express.Express) {
         console.log(`${chalk.green(`[200 OK${hasCache ? " Cache Used" : ""}] [${getCurrentTime()}]`)} ${decodeURI(originalUrl)}`);
 
         if (!hasCache) {
+          // @ts-expect-error: ignore axios response
           CacheMap.set(originalUrl, response)
 
           setTimeout(() => {

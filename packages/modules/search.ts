@@ -1,4 +1,4 @@
-import { RequestFunction as RF } from "../declare/modules"
+import { BasicResponse, RequestFunction as RF } from "../declare/modules"
 import { ProxyRequestUtil as r } from "../utils/request"
 
 interface Keyword {
@@ -9,6 +9,40 @@ interface Keyword {
 interface LastCid {
   /** 上次请求中的最后子项 */
   lastCid?: string | number
+}
+
+export interface SingleAlbumSearchResultItem {
+  cid: string
+  name: string
+  belong: string
+  coverUrl: string
+  artistes: string[]
+}
+
+export interface SingleNewsSearchResultItem {
+  cid: string
+  title: string
+  cate: number
+  date: string
+}
+
+export interface SearchAlbumResponse {
+  list: SingleAlbumSearchResultItem[]
+  /** 结束标记 */
+  end: boolean
+}
+
+export interface SearchNewsResponse {
+  list: SingleNewsSearchResultItem[]
+  /** 结束标记 */
+  end: boolean
+}
+
+export interface SearchResponse extends BasicResponse {
+  data: {
+    albums: SearchAlbumResponse
+    news: SearchNewsResponse
+  }
 }
 
 export const search = function (o) {
@@ -25,7 +59,7 @@ export const search = function (o) {
     }
   )
 
-} as RF<Keyword>
+} as RF<Keyword, SearchResponse>
 
 export const search_album = function (o) {
   const { request = r, keyword, lastCid } = o ?? {}
@@ -40,7 +74,9 @@ export const search_album = function (o) {
       params: { keyword, lastCid }
     }
   )
-} as RF<Keyword & LastCid>
+} as RF<Keyword & LastCid, BasicResponse & {
+  data: SearchAlbumResponse
+}>
 
 export const search_news = function (o) {
   const { request = r, keyword, lastCid } = o ?? {}
@@ -55,4 +91,6 @@ export const search_news = function (o) {
       params: { keyword, lastCid }
     }
   )
-} as RF<Keyword & LastCid>
+} as RF<Keyword & LastCid, BasicResponse & {
+  data: SearchNewsResponse
+}>
