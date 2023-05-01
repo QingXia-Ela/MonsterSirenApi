@@ -1,7 +1,20 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Tue Apr 18 2023 20:49:24 GMT+0800 (GMT+08:00)
+更新日期：Mon May 01 2023 09:34:24 GMT+0800 (GMT+08:00)
 
+- id: 6665，名字：未尽篇章OST
+- id: 5101，名字：沃伦姆德的薄暮OST
+- id: 1024，名字：日暮寻路OST
+- id: 5102，名字：阴云火花OST
+- id: 9389，名字：红松林OST
+- id: 4510，名字：覆潮之下OST
+- id: 0245，名字：遗尘漫步OST
+- id: 2451，名字：孤岛风云OST
+- id: 8938，名字：玛莉娅·临光OST
+- id: 3893，名字：密林悍将归来OST
+- id: 7777，名字：生于黑夜OST
+- id: 6666，名字：喧闹法则OST
+- id: 3894，名字：骑兵与猎人OST
 - id: 2452，名字：Endospore
 - id: 8939，名字：明日方舟OST4
 - id: 9380，名字：Squad Unknown
