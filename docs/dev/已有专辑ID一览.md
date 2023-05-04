@@ -1,7 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Mon May 01 2023 09:34:24 GMT+0800 (GMT+08:00)
+更新日期：Thu May 04 2023 14:48:36 GMT+0800 (GMT+08:00)
 
+- id: 9388，名字：The cure 
+- id: 8937，名字：Dormant Craving 
+- id: 7776，名字：Morning Dew 
 - id: 6665，名字：未尽篇章OST
 - id: 5101，名字：沃伦姆德的薄暮OST
 - id: 1024，名字：日暮寻路OST

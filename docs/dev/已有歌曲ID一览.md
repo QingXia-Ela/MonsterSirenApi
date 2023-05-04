@@ -1,7 +1,13 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Mon May 01 2023 09:34:24 GMT+0800 (GMT+08:00)
+更新日期：Thu May 04 2023 14:48:36 GMT+0800 (GMT+08:00)
 
+- id: 514543，名字：The cure (Instrumental)
+- id: 953986，名字：The cure
+- id: 697621，名字：Dormant Craving (Instrumental)
+- id: 125075，名字：Dormant Craving
+- id: 779493，名字：Morning Dew (Instrumental)
+- id: 232276，名字：Morning Dew
 - id: 306819，名字：待续
 - id: 697620，名字：无可撼动
 - id: 779492，名字：叛乱
