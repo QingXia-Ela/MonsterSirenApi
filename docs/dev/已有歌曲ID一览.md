@@ -1,7 +1,13 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Thu May 04 2023 14:48:36 GMT+0800 (GMT+08:00)
+更新日期：Sat May 06 2023 15:18:50 GMT+0800 (GMT+08:00)
 
+- id: 880338，名字：Afterglow
+- id: 232267，名字：缉速狂飙
+- id: 514544，名字：踏沙寻影
+- id: 461159，名字：琅环玄机
+- id: 306810，名字：迷航寻踪
+- id: 048702，名字：愚夜密函
 - id: 514543，名字：The cure (Instrumental)
 - id: 953986，名字：The cure
 - id: 697621，名字：Dormant Craving (Instrumental)
