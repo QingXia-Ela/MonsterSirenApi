@@ -1,7 +1,17 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sat May 06 2023 15:18:50 GMT+0800 (GMT+08:00)
+更新日期：Tue May 09 2023 14:58:05 GMT+0800 (GMT+08:00)
 
+- id: 697629，名字：绿意游曳
+- id: 048700，名字：Bubble
+- id: 514542，名字：Blues with you
+- id: 779491，名字：Rhine Lab.LLC
+- id: 232265，名字：A World Above
+- id: 125073，名字：群星见我
+- id: 232266，名字：特里蒙的天空
+- id: 461158，名字：The Coming of the Future
+- id: 880337，名字：Control's Wishes
+- id: 125074，名字：Ad astra
 - id: 880338，名字：Afterglow
 - id: 232267，名字：缉速狂飙
 - id: 514544，名字：踏沙寻影
