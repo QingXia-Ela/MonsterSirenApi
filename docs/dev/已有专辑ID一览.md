@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Tue May 09 2023 14:58:05 GMT+0800 (GMT+08:00)
+更新日期：Thu Jun 08 2023 18:16:12 GMT+0800 (GMT+08:00)
 
+- id: 3892，名字：Stained
+- id: 4519，名字：Before Summer
 - id: 2450，名字：孤星OST
 - id: 1023，名字：音律联觉-愚夜密函原声EP
 - id: 9388，名字：The cure 

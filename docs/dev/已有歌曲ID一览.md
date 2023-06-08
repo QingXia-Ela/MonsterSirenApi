@@ -1,7 +1,11 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Tue May 09 2023 14:58:05 GMT+0800 (GMT+08:00)
+更新日期：Thu Jun 08 2023 18:16:12 GMT+0800 (GMT+08:00)
 
+- id: 880336，名字：2. Stained（Instrumental）
+- id: 306818，名字：Stained
+- id: 461157，名字：Before Summer (Instrumental)
+- id: 953984，名字：Before Summer
 - id: 697629，名字：绿意游曳
 - id: 048700，名字：Bubble
 - id: 514542，名字：Blues with you
