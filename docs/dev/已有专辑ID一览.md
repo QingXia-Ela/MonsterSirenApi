@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Thu Jun 08 2023 18:16:12 GMT+0800 (GMT+08:00)
+更新日期：Fri Jun 16 2023 11:02:40 GMT+0800 (GMT+08:00)
 
+- id: 0244，名字：空想花庭OST
 - id: 3892，名字：Stained
 - id: 4519，名字：Before Summer
 - id: 2450，名字：孤星OST

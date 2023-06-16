@@ -1,7 +1,12 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Thu Jun 08 2023 18:16:12 GMT+0800 (GMT+08:00)
+更新日期：Fri Jun 16 2023 11:02:40 GMT+0800 (GMT+08:00)
 
+- id: 779490，名字：窒息
+- id: 125072，名字：灰色岁月
+- id: 514541，名字：无罪之人
+- id: 880335，名字：裁决日
+- id: 953983，名字：不存在的乐园
 - id: 880336，名字：2. Stained（Instrumental）
 - id: 306818，名字：Stained
 - id: 461157，名字：Before Summer (Instrumental)
