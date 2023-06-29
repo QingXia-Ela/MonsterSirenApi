@@ -1,7 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Fri Jun 16 2023 11:02:40 GMT+0800 (GMT+08:00)
+更新日期：Thu Jun 29 2023 17:31:50 GMT+0800 (GMT+08:00)
 
+- id: 306817，名字：Before & After (Instrumental)
+- id: 232264，名字：Before & After
+- id: 048709，名字：Intro: Reminiscence
 - id: 779490，名字：窒息
 - id: 125072，名字：灰色岁月
 - id: 514541，名字：无罪之人
