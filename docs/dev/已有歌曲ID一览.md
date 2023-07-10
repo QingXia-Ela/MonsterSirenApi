@@ -1,7 +1,13 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Thu Jun 29 2023 17:31:50 GMT+0800 (GMT+08:00)
+更新日期：Mon Jul 10 2023 20:17:44 GMT+0800 (GMT+08:00)
 
+- id: 953982，名字：“坏家伙”来了！
+- id: 125071，名字：Encounter
+- id: 461155，名字：再来一把！
+- id: 232263，名字：会动的......蘑菇？
+- id: 461156，名字：Mortal Eye (Instrumental)
+- id: 697628，名字：Mortal Eye
 - id: 306817，名字：Before & After (Instrumental)
 - id: 232264，名字：Before & After
 - id: 048709，名字：Intro: Reminiscence

@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Thu Jun 29 2023 17:31:50 GMT+0800 (GMT+08:00)
+更新日期：Mon Jul 10 2023 20:17:44 GMT+0800 (GMT+08:00)
 
+- id: 0243，名字：刻俄柏的灰蕈迷境OST
+- id: 9387，名字：Mortal Eye
 - id: 8936，名字：Before & After
 - id: 0244，名字：空想花庭OST
 - id: 3892，名字：Stained
