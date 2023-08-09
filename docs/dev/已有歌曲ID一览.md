@@ -1,7 +1,16 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Wed Aug 02 2023 12:09:20 GMT+0800 (GMT+08:00)
+更新日期：Wed Aug 09 2023 16:41:30 GMT+0800 (GMT+08:00)
 
+- id: 461154，名字：Drifting Blossom
+- id: 514549，名字：So Long for Another Summer
+- id: 125070，名字：Adele's Dream
+- id: 232262，名字：Sheepnado Decimates Nomadic City
+- id: 953981，名字：Counting Sheep
+- id: 306815，名字：Effervescence
+- id: 880333，名字：Misty Memory (Acoustic Version)
+- id: 306816，名字：Misty Memory (Night Version)
+- id: 048708，名字：Misty Memory (Day Version)
 - id: 697627，名字：Missy (Instrumental)
 - id: 880334，名字：Missy
 - id: 779499，名字：Miss You (Instrumental)
