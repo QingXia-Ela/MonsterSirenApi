@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Wed Aug 09 2023 16:41:30 GMT+0800 (GMT+08:00)
+更新日期：Mon Aug 14 2023 11:30:27 GMT+0800 (GMT+08:00)
 
 - id: 461154，名字：Drifting Blossom
 - id: 514549，名字：So Long for Another Summer

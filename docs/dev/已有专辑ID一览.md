@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Wed Aug 09 2023 16:41:30 GMT+0800 (GMT+08:00)
+更新日期：Mon Aug 14 2023 11:30:27 GMT+0800 (GMT+08:00)
 
 - id: 7775，名字：火山旅梦OST
 - id: 3891，名字：Missy
