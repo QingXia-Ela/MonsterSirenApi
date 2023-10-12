@@ -1,7 +1,11 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Mon Aug 14 2023 11:30:27 GMT+0800 (GMT+08:00)
+更新日期：Thu Oct 12 2023 22:58:29 GMT+0800 (GMT+08:00)
 
+- id: 6664，名字：Settle Into Ash
+- id: 1022，名字：不义之财OST
+- id: 2459，名字：Water Quench
+- id: 5100，名字：Beautiful & Lovely
 - id: 7775，名字：火山旅梦OST
 - id: 3891，名字：Missy
 - id: 4518，名字：Miss You

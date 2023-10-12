@@ -1,7 +1,16 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Mon Aug 14 2023 11:30:27 GMT+0800 (GMT+08:00)
+更新日期：Thu Oct 12 2023 22:58:29 GMT+0800 (GMT+08:00)
 
+- id: 125079，名字：Settle Into Ash (Instrumental)
+- id: 953980，名字：Settle Into Ash
+- id: 880332，名字：The Survivor, The Winner
+- id: 232261，名字：Case Ejection
+- id: 697625，名字：巴伦巨舰
+- id: 461153，名字：Water Quench (Instrumental)
+- id: 697626，名字：Water Quench
+- id: 779498，名字：Beautiful & Lovely (Instrumental)
+- id: 048707，名字：Beautiful & Lovely
 - id: 461154，名字：Drifting Blossom
 - id: 514549，名字：So Long for Another Summer
 - id: 125070，名字：Adele's Dream
