@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Thu Oct 12 2023 22:58:29 GMT+0800 (GMT+08:00)
+更新日期：Sat Oct 21 2023 11:47:24 GMT+0800 (GMT+08:00)
 
+- id: 9386，名字：Best Moments of... 
 - id: 6664，名字：Settle Into Ash
 - id: 1022，名字：不义之财OST
 - id: 2459，名字：Water Quench

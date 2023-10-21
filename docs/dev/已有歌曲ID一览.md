@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Thu Oct 12 2023 22:58:29 GMT+0800 (GMT+08:00)
+更新日期：Sat Oct 21 2023 11:47:24 GMT+0800 (GMT+08:00)
 
+- id: 779497，名字：Best Moments of... (Instrumental)
+- id: 306814，名字：Best Moments of...
 - id: 125079，名字：Settle Into Ash (Instrumental)
 - id: 953980，名字：Settle Into Ash
 - id: 880332，名字：The Survivor, The Winner
