@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sat Oct 21 2023 11:47:24 GMT+0800 (GMT+08:00)
+更新日期：Wed Oct 25 2023 11:08:43 GMT+0800 (GMT+08:00)
 
+- id: 048706，名字：ACHE in PULSE
+- id: 514548，名字：ACHE in PULSE (Monster Siren Records)
 - id: 779497，名字：Best Moments of... (Instrumental)
 - id: 306814，名字：Best Moments of...
 - id: 125079，名字：Settle Into Ash (Instrumental)
