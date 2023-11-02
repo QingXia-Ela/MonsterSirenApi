@@ -1,7 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Wed Oct 25 2023 11:08:43 GMT+0800 (GMT+08:00)
+更新日期：Thu Nov 02 2023 21:36:44 GMT+0800 (GMT+08:00)
 
+- id: 880331，名字：Revealing (Instrumental)
+- id: 048705，名字：Revealing
+- id: 306813，名字：Intro: Resonance
 - id: 048706，名字：ACHE in PULSE
 - id: 514548，名字：ACHE in PULSE (Monster Siren Records)
 - id: 779497，名字：Best Moments of... (Instrumental)

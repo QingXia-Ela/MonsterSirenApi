@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Wed Oct 25 2023 11:08:43 GMT+0800 (GMT+08:00)
+更新日期：Thu Nov 02 2023 21:36:44 GMT+0800 (GMT+08:00)
 
+- id: 2458，名字：Revealing
 - id: 6663，名字：ACHE in PULSE
 - id: 4517，名字：ACHE in PULSE (Monster Siren Records)
 - id: 9386，名字：Best Moments of... 
