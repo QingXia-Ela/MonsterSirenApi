@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Thu Nov 02 2023 21:36:44 GMT+0800 (GMT+08:00)
+更新日期：Sat Nov 04 2023 13:27:29 GMT+0800 (GMT+08:00)
 
+- id: 8935，名字：Lessing
+- id: 1021，名字：Illuminate
 - id: 2458，名字：Revealing
 - id: 6663，名字：ACHE in PULSE
 - id: 4517，名字：ACHE in PULSE (Monster Siren Records)
