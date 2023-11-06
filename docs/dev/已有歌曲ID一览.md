@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sat Nov 04 2023 13:27:29 GMT+0800 (GMT+08:00)
+更新日期：Mon Nov 06 2023 15:38:01 GMT+0800 (GMT+08:00)
 
 - id: 697624，名字：Lessing (Instrumental)
 - id: 953989，名字：Lessing
