@@ -1,7 +1,16 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Mon Nov 06 2023 15:38:01 GMT+0800 (GMT+08:00)
+更新日期：Thu Nov 09 2023 16:39:49 GMT+0800 (GMT+08:00)
 
+- id: 232269，名字：Before the Cessation
+- id: 880330，名字：Scordatura
+- id: 306812，名字：Pavillon, My Last Creation
+- id: 461151，名字：The Theme (Variant)
+- id: 779495，名字：The Theme (Imperial)
+- id: 697623，名字：Die Sünden des Herkunftshorns
+- id: 779496，名字：Der Hexenkönig
+- id: 125078，名字：Underneath the Spires
+- id: 514547，名字：Visage
 - id: 697624，名字：Lessing (Instrumental)
 - id: 953989，名字：Lessing
 - id: 232260，名字：Illuminate (Instrumental)

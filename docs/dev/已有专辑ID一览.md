@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Mon Nov 06 2023 15:38:01 GMT+0800 (GMT+08:00)
+更新日期：Thu Nov 09 2023 16:39:49 GMT+0800 (GMT+08:00)
 
+- id: 3890，名字：崔林特尔梅之金OST
 - id: 8935，名字：Lessing
 - id: 1021，名字：Illuminate
 - id: 2458，名字：Revealing
