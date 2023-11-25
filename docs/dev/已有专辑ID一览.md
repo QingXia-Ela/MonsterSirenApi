@@ -1,7 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Thu Nov 09 2023 16:39:49 GMT+0800 (GMT+08:00)
+更新日期：Sat Nov 25 2023 16:27:48 GMT+0800 (GMT+08:00)
 
+- id: 7774，名字：Fleeting Wish
+- id: 0242，名字：Fleeting Wish (Monster Siren Records)
+- id: 5109，名字：危机合约浊燃作战OST
 - id: 3890，名字：崔林特尔梅之金OST
 - id: 8935，名字：Lessing
 - id: 1021，名字：Illuminate

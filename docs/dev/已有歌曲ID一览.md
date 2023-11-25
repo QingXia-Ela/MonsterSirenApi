@@ -1,7 +1,12 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Thu Nov 09 2023 16:39:49 GMT+0800 (GMT+08:00)
+更新日期：Sat Nov 25 2023 16:27:48 GMT+0800 (GMT+08:00)
 
+- id: 048703，名字：Fleeting Wish
+- id: 514546，名字：Fleeting Wish (Monster Siren Records)
+- id: 953988，名字：Wavering Flame
+- id: 125077，名字：Battleplan Pyrolysis (Instrumental)
+- id: 048704，名字：Battleplan Pyrolysis
 - id: 232269，名字：Before the Cessation
 - id: 880330，名字：Scordatura
 - id: 306812，名字：Pavillon, My Last Creation
