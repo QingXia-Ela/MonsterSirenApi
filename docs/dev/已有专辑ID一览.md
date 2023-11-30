@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Sat Nov 25 2023 16:27:48 GMT+0800 (GMT+08:00)
+更新日期：Thu Nov 30 2023 09:21:32 GMT+0800 (GMT+08:00)
 
+- id: 4516，名字：冬隐归路OST
 - id: 7774，名字：Fleeting Wish
 - id: 0242，名字：Fleeting Wish (Monster Siren Records)
 - id: 5109，名字：危机合约浊燃作战OST
