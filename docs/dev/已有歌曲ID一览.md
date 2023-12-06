@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Thu Nov 30 2023 09:21:32 GMT+0800 (GMT+08:00)
+更新日期：Wed Dec 06 2023 12:26:50 GMT+0800 (GMT+08:00)
 
+- id: 125067，名字：Blade Catcher
+- id: 461144，名字：Blade Catcher
 - id: 232259，名字：决意
 - id: 697610，名字：踪迹
 - id: 306802，名字：凯尔希

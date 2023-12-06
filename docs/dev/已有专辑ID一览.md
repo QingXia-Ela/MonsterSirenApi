@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Thu Nov 30 2023 09:21:32 GMT+0800 (GMT+08:00)
+更新日期：Wed Dec 06 2023 12:26:50 GMT+0800 (GMT+08:00)
 
+- id: 2457，名字：Blade Catcher
 - id: 4516，名字：冬隐归路OST
 - id: 7774，名字：Fleeting Wish
 - id: 0242，名字：Fleeting Wish (Monster Siren Records)
