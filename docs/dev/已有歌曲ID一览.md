@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Wed Dec 06 2023 12:26:50 GMT+0800 (GMT+08:00)
+更新日期：Sat Dec 09 2023 17:04:22 GMT+0800 (GMT+08:00)
 
 - id: 125067，名字：Blade Catcher
 - id: 461144，名字：Blade Catcher
