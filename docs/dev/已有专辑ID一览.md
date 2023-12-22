@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Sat Dec 09 2023 17:04:22 GMT+0800 (GMT+08:00)
+更新日期：Fri Dec 22 2023 15:57:48 GMT+0800 (GMT+08:00)
 
+- id: 7773，名字：银心湖列车OST
 - id: 2457，名字：Blade Catcher
 - id: 4516，名字：冬隐归路OST
 - id: 7774，名字：Fleeting Wish

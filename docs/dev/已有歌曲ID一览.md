@@ -1,8 +1,11 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sat Dec 09 2023 17:04:22 GMT+0800 (GMT+08:00)
+更新日期：Fri Dec 22 2023 15:57:48 GMT+0800 (GMT+08:00)
 
-- id: 125067，名字：Blade Catcher
+- id: 461143，名字：First Crevasse on the Frozen Lake
+- id: 779486，名字：Play with Burdenbeasts
+- id: 514538，名字：Day Train to Lake Silberneherze
+- id: 125067，名字：Blade Catcher (Instrumental)
 - id: 461144，名字：Blade Catcher
 - id: 232259，名字：决意
 - id: 697610，名字：踪迹
