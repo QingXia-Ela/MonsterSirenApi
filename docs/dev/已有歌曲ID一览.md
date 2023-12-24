@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Fri Dec 22 2023 15:57:48 GMT+0800 (GMT+08:00)
+更新日期：Sun Dec 24 2023 16:56:38 GMT+0800 (GMT+08:00)
 
+- id: 306801，名字：Snow Parade(Instrumental)
+- id: 779485，名字：Snow Parade
 - id: 461143，名字：First Crevasse on the Frozen Lake
 - id: 779486，名字：Play with Burdenbeasts
 - id: 514538，名字：Day Train to Lake Silberneherze
