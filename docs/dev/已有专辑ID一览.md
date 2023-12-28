@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Sun Dec 24 2023 16:56:38 GMT+0800 (GMT+08:00)
+更新日期：Thu Dec 28 2023 12:27:22 GMT+0800 (GMT+08:00)
 
+- id: 0241，名字：(Believed Believes) Believing
 - id: 5108，名字：Snow Parade
 - id: 7773，名字：银心湖列车OST
 - id: 2457，名字：Blade Catcher

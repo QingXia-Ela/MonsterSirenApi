@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sun Dec 24 2023 16:56:38 GMT+0800 (GMT+08:00)
+更新日期：Thu Dec 28 2023 12:27:22 GMT+0800 (GMT+08:00)
 
+- id: 880320，名字：(Believed Believes) Believing(Instrumental)
+- id: 048792，名字：(Believed Believes) Believing
 - id: 306801，名字：Snow Parade(Instrumental)
 - id: 779485，名字：Snow Parade
 - id: 461143，名字：First Crevasse on the Frozen Lake
