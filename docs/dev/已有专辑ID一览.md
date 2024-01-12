@@ -1,7 +1,11 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Thu Dec 28 2023 12:27:22 GMT+0800 (GMT+08:00)
+更新日期：Sat Jan 13 2024 00:29:10 GMT+0800 (GMT+08:00)
 
+- id: 6662，名字：小刻的画图写话OST
+- id: 3899，名字：去咧嘴谷OST
+- id: 1020，名字：Winged Step
+- id: 9385，名字：探索者的银凇止境OST
 - id: 0241，名字：(Believed Believes) Believing
 - id: 5108，名字：Snow Parade
 - id: 7773，名字：银心湖列车OST
