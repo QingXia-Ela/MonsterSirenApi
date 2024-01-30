@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sat Jan 13 2024 00:29:10 GMT+0800 (GMT+08:00)
+更新日期：Tue Jan 30 2024 10:03:17 GMT+0800 (GMT+08:00)
 
 - id: 461140，名字：刻俄柏号，出发！(ED ver.)
 - id: 779482，名字：刻俄柏号，出发！
