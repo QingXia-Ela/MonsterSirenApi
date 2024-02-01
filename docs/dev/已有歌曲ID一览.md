@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Tue Jan 30 2024 10:03:17 GMT+0800 (GMT+08:00)
+更新日期：Thu Feb 01 2024 11:33:19 GMT+0800 (GMT+08:00)
 
+- id: 514534，名字：浸春芜 (Instrumental)
+- id: 048799，名字：浸春芜
 - id: 461140，名字：刻俄柏号，出发！(ED ver.)
 - id: 779482，名字：刻俄柏号，出发！
 - id: 953971，名字：打斗
