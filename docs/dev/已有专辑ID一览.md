@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Thu Feb 01 2024 17:37:35 GMT+0800 (GMT+08:00)
+更新日期：Fri Feb 23 2024 11:59:26 GMT+0800 (GMT+08:00)
 
+- id: 8933，名字：怀黍离OST
+- id: 5107，名字：Yanking
 - id: 2456，名字：清平乐
 - id: 8934，名字：浸春芜
 - id: 6662，名字：小刻的画图写话OST

@@ -1,7 +1,14 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Thu Feb 01 2024 17:37:34 GMT+0800 (GMT+08:00)
+更新日期：Fri Feb 23 2024 11:59:26 GMT+0800 (GMT+08:00)
 
+- id: 125062，名字：锦绣山河
+- id: 779481，名字：击壤歌
+- id: 697615，名字：祥风时雨
+- id: 514533，名字：赴大荒
+- id: 697616，名字：Yanking（Instrumental）
+- id: 306808，名字：Yanking
+- id: 880327，名字：清平乐
 - id: 514534，名字：浸春芜 (Instrumental)
 - id: 048799，名字：浸春芜
 - id: 461140，名字：刻俄柏号，出发！(ED ver.)
