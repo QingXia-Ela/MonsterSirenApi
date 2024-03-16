@@ -1,7 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Tue Mar 05 2024 13:08:26 GMT+0800 (GMT+08:00)
+更新日期：Sat Mar 16 2024 23:31:20 GMT+0800 (GMT+08:00)
 
+- id: 232254，名字：No Way Back
+- id: 461149，名字：Behind the Wall
+- id: 953970，名字：Translucent
 - id: 125062，名字：锦绣山河
 - id: 779481，名字：击壤歌
 - id: 697615，名字：祥风时雨

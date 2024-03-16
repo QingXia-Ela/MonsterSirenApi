@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Tue Mar 05 2024 13:08:26 GMT+0800 (GMT+08:00)
+更新日期：Sat Mar 16 2024 23:31:20 GMT+0800 (GMT+08:00)
 
+- id: 3898，名字：水晶箭行动OST
 - id: 8933，名字：怀黍离OST
 - id: 5107，名字：Yanking
 - id: 2456，名字：清平乐
