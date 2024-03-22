@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Sat Mar 16 2024 23:31:20 GMT+0800 (GMT+08:00)
+更新日期：Fri Mar 22 2024 20:34:08 GMT+0800 (GMT+08:00)
 
 - id: 3898，名字：水晶箭行动OST
 - id: 8933，名字：怀黍离OST
