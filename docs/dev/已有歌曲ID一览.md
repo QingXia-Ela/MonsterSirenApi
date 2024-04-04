@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Fri Mar 22 2024 20:34:08 GMT+0800 (GMT+08:00)
+更新日期：Thu Apr 04 2024 16:09:22 GMT+0800 (GMT+08:00)
 
+- id: 306807，名字：好得不能再好了！泰拉投资大师课
 - id: 232254，名字：No Way Back
 - id: 461149，名字：Behind the Wall
 - id: 953970，名字：Translucent

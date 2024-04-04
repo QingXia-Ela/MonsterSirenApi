@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Fri Mar 22 2024 20:34:08 GMT+0800 (GMT+08:00)
+更新日期：Thu Apr 04 2024 16:09:22 GMT+0800 (GMT+08:00)
 
+- id: 6661，名字：好得不能再好了！泰拉投资大师课
 - id: 3898，名字：水晶箭行动OST
 - id: 8933，名字：怀黍离OST
 - id: 5107，名字：Yanking
