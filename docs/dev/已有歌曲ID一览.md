@@ -1,7 +1,13 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Thu Apr 04 2024 16:09:22 GMT+0800 (GMT+08:00)
+更新日期：Thu Apr 11 2024 23:34:28 GMT+0800 (GMT+08:00)
 
+- id: 514532，名字：ONE BY ONEONE BY ONE (Instrumental)
+- id: 125061，名字：ONE BY ONE
+- id: 880325，名字：Unsinkable
+- id: 232253，名字：Chasing Dawn
+- id: 880326，名字：Battleplan Underdawn (Instrumental)
+- id: 048798，名字：Battleplan Underdawn
 - id: 306807，名字：好得不能再好了！泰拉投资大师课
 - id: 232254，名字：No Way Back
 - id: 461149，名字：Behind the Wall
