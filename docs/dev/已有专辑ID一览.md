@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Thu Apr 11 2024 23:34:28 GMT+0800 (GMT+08:00)
+更新日期：Sun Apr 28 2024 14:49:08 GMT+0800 (GMT+08:00)
 
+- id: 1029，名字：巴别塔OST
 - id: 0240，名字：ONE BY ONE
 - id: 4515，名字：危机合约潮曦作战OST
 - id: 6661，名字：好得不能再好了！泰拉投资大师课

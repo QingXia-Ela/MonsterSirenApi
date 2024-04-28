@@ -1,7 +1,14 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Thu Apr 11 2024 23:34:28 GMT+0800 (GMT+08:00)
+更新日期：Sun Apr 28 2024 14:49:08 GMT+0800 (GMT+08:00)
 
+- id: 697613，名字：陌域暗访
+- id: 306806，名字：恶化螺旋
+- id: 461148，名字：Silent Tales
+- id: 048797，名字：Founding Stone
+- id: 697614，名字：The Opening
+- id: 953979，名字：Fire's Embrace
+- id: 779480，名字：Storyteller
 - id: 514532，名字：ONE BY ONEONE BY ONE (Instrumental)
 - id: 125061，名字：ONE BY ONE
 - id: 880325，名字：Unsinkable
