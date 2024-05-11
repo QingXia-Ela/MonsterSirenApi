@@ -1,7 +1,22 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sun Apr 28 2024 14:49:08 GMT+0800 (GMT+08:00)
+更新日期：Sat May 11 2024 22:46:19 GMT+0800 (GMT+08:00)
 
+- id: 125069，名字：Echoism (Instrumental)
+- id: 697612，名字：Whistle Stop (Instrumental)
+- id: 232251，名字：Whistle Stop
+- id: 514530，名字：Echoism
+- id: 048795，名字：Arsonist(Instrumental)
+- id: 880323，名字：Arsonist
+- id: 048796，名字：Broken Sun
+- id: 953978，名字：Succession
+- id: 461147，名字：RATIO ULTIMA
+- id: 880324，名字：Antiphon of Agonies Old
+- id: 779489，名字：Cries of the Cinderbringer
+- id: 125060，名字：Transcending Brilliance of Gold
+- id: 232252，名字：Here Come the Exiles
+- id: 514531，名字：In Originium Covered Fields
+- id: 306805，名字：Merciful Broken Sun
 - id: 697613，名字：陌域暗访
 - id: 306806，名字：恶化螺旋
 - id: 461148，名字：Silent Tales

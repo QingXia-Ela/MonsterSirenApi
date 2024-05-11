@@ -1,7 +1,11 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Sun Apr 28 2024 14:49:08 GMT+0800 (GMT+08:00)
+更新日期：Sat May 11 2024 22:46:19 GMT+0800 (GMT+08:00)
 
+- id: 3897，名字：Echoism
+- id: 5106，名字：Whistle Stop
+- id: 9384，名字：Arsonist
+- id: 7772，名字：慈悲灯塔OST
 - id: 1029，名字：巴别塔OST
 - id: 0240，名字：ONE BY ONE
 - id: 4515，名字：危机合约潮曦作战OST
