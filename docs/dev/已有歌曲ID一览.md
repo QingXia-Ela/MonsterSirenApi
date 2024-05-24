@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sat May 11 2024 22:46:19 GMT+0800 (GMT+08:00)
+更新日期：Fri May 24 2024 14:22:41 GMT+0800 (GMT+08:00)
 
+- id: 953977，名字：IWillTouchtheSky（Instrumental）
+- id: 306804，名字：I Will Touch the Sky
 - id: 125069，名字：Echoism (Instrumental)
 - id: 697612，名字：Whistle Stop (Instrumental)
 - id: 232251，名字：Whistle Stop
