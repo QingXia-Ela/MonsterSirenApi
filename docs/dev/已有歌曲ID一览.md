@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sun May 26 2024 18:45:03 GMT+0800 (GMT+08:00)
+更新日期：Tue May 28 2024 17:22:08 GMT+0800 (GMT+08:00)
 
 - id: 953977，名字：IWillTouchtheSky（Instrumental）
 - id: 306804，名字：I Will Touch the Sky
