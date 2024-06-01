@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Tue May 28 2024 17:22:08 GMT+0800 (GMT+08:00)
+更新日期：Sat Jun 01 2024 15:34:40 GMT+0800 (GMT+08:00)
 
 - id: 9383，名字：I Will Touch the Sky
 - id: 3897，名字：Echoism
