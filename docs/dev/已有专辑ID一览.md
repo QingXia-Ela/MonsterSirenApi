@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Sat Jun 01 2024 15:34:40 GMT+0800 (GMT+08:00)
+更新日期：Sat Jun 08 2024 21:20:23 GMT+0800 (GMT+08:00)
 
+- id: 7771，名字：Chase the Light
+- id: 1028，名字：Vows of the Sea
 - id: 9383，名字：I Will Touch the Sky
 - id: 3897，名字：Echoism
 - id: 5106，名字：Whistle Stop

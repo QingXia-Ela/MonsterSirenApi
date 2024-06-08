@@ -1,7 +1,11 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sat Jun 01 2024 15:34:40 GMT+0800 (GMT+08:00)
+更新日期：Sat Jun 08 2024 21:20:23 GMT+0800 (GMT+08:00)
 
+- id: 461145，名字：Chase the Light (instrumental)
+- id: 306803，名字：Chase the Light
+- id: 461146，名字：Vows of the Sea（Instrumental）
+- id: 779488，名字：Vows of the Sea
 - id: 953977，名字：IWillTouchtheSky（Instrumental）
 - id: 306804，名字：I Will Touch the Sky
 - id: 125069，名字：Echoism (Instrumental)
