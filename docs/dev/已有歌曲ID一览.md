@@ -1,7 +1,11 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sat Jun 08 2024 21:20:23 GMT+0800 (GMT+08:00)
+更新日期：Mon Jun 17 2024 19:09:29 GMT+0800 (GMT+08:00)
 
+- id: 514539，名字：孤航
+- id: 232250，名字：此处唯有前路
+- id: 880322，名字：重力场
+- id: 697611，名字：海洋的哺养
 - id: 461145，名字：Chase the Light (instrumental)
 - id: 306803，名字：Chase the Light
 - id: 461146，名字：Vows of the Sea（Instrumental）
