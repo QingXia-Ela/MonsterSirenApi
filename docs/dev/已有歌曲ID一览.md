@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Mon Jun 17 2024 19:09:29 GMT+0800 (GMT+08:00)
+更新日期：Mon Jun 24 2024 12:19:02 GMT+0800 (GMT+08:00)
 
 - id: 514539，名字：孤航
 - id: 232250，名字：此处唯有前路
