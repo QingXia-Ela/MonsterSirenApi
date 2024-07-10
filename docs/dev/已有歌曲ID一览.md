@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Mon Jun 24 2024 12:19:02 GMT+0800 (GMT+08:00)
+更新日期：Wed Jul 10 2024 20:29:04 GMT+0800 (GMT+08:00)
 
+- id: 779487，名字：Warm and Small Light (Instrument)
+- id: 048794，名字：Warm and Small Light
 - id: 514539，名字：孤航
 - id: 232250，名字：此处唯有前路
 - id: 880322，名字：重力场

@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Mon Jun 24 2024 12:19:02 GMT+0800 (GMT+08:00)
+更新日期：Wed Jul 10 2024 20:29:04 GMT+0800 (GMT+08:00)
 
+- id: 6660，名字：Warm and Small Light
 - id: 2455，名字：生路OST
 - id: 7771，名字：Chase the Light
 - id: 1028，名字：Vows of the Sea
