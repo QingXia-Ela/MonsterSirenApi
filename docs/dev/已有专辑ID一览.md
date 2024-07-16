@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Wed Jul 10 2024 20:29:04 GMT+0800 (GMT+08:00)
+更新日期：Tue Jul 16 2024 21:08:56 GMT+0800 (GMT+08:00)
 
 - id: 6660，名字：Warm and Small Light
 - id: 2455，名字：生路OST
