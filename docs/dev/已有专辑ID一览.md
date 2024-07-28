@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Fri Jul 19 2024 15:59:57 GMT+0800 (GMT+08:00)
+更新日期：Sun Jul 28 2024 20:49:44 GMT+0800 (GMT+08:00)
 
+- id: 0249，名字：音律联觉-不觅浪尘原声EP
 - id: 6660，名字：Warm and Small Light
 - id: 2455，名字：生路OST
 - id: 7771，名字：Chase the Light

@@ -1,7 +1,13 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Fri Jul 19 2024 15:59:57 GMT+0800 (GMT+08:00)
+更新日期：Sun Jul 28 2024 20:49:44 GMT+0800 (GMT+08:00)
 
+- id: 697602，名字：魔王
+- id: 514521，名字：空王冠
+- id: 779475，名字：FIVE超新星☆全能live时刻！
+- id: 306893，名字：遗君
+- id: 953976，名字：行者
+- id: 125068，名字：梦人
 - id: 779487，名字：Warm and Small Light (Instrument)
 - id: 048794，名字：Warm and Small Light
 - id: 514539，名字：孤航
