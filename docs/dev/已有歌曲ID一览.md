@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Thu Aug 01 2024 11:24:25 GMT+0800 (GMT+08:00)
+更新日期：Thu Aug 01 2024 17:58:00 GMT+0800 (GMT+08:00)
 
 - id: 125059，名字：Mystic Light Quest (Instrumental)
 - id: 880310，名字：Mystic Light Quest

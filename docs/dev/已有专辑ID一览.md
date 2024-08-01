@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Thu Aug 01 2024 11:24:25 GMT+0800 (GMT+08:00)
+更新日期：Thu Aug 01 2024 17:58:00 GMT+0800 (GMT+08:00)
 
 - id: 8932，名字：Mystic Light Quest
 - id: 0249，名字：音律联觉-不觅浪尘原声EP
