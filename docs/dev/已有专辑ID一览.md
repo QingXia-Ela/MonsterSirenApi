@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Thu Aug 01 2024 17:58:00 GMT+0800 (GMT+08:00)
+更新日期：Mon Aug 05 2024 06:10:50 GMT+0800 (GMT+08:00)
 
+- id: 4514，名字：Nightmare's Descent
 - id: 8932，名字：Mystic Light Quest
 - id: 0249，名字：音律联觉-不觅浪尘原声EP
 - id: 6660，名字：Warm and Small Light
