@@ -1,7 +1,13 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Mon Aug 05 2024 06:10:50 GMT+0800 (GMT+08:00)
+更新日期：Sat Aug 10 2024 10:35:32 GMT+0800 (GMT+08:00)
 
+- id: 306892，名字：千年职责
+- id: 697601，名字：穿越千年的誓言
+- id: 048785，名字：沙丘旁的日落
+- id: 232243，名字：城市觉醒
+- id: 048786，名字：沙海流金
+- id: 461138，名字：大巴扎午后
 - id: 953967，名字：Nightmare's Descent (Instrumental)
 - id: 232244，名字：Nightmare's Descent
 - id: 125059，名字：Mystic Light Quest (Instrumental)
