@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Mon Aug 19 2024 10:18:32 GMT+0800 (GMT+08:00)
+更新日期：Sun Aug 25 2024 12:48:45 GMT+0800 (GMT+08:00)
 
 - id: 306892，名字：千年职责
 - id: 697601，名字：穿越千年的誓言
