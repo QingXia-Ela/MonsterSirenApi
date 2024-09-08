@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Thu Sep 05 2024 21:29:24 GMT+0800 (GMT+08:00)
+更新日期：Sun Sep 08 2024 10:35:05 GMT+0800 (GMT+08:00)
 
 - id: 5196，名字：太阳甩在身后OST
 - id: 4514，名字：Nightmare's Descent
