@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Sun Sep 08 2024 10:35:05 GMT+0800 (GMT+08:00)
+更新日期：Tue Sep 17 2024 15:50:09 GMT+0800 (GMT+08:00)
 
+- id: 8927，名字：泰拉饭OST
 - id: 5196，名字：太阳甩在身后OST
 - id: 4514，名字：Nightmare's Descent
 - id: 8932，名字：Mystic Light Quest
