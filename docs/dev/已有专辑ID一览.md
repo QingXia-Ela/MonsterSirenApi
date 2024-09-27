@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Fri Sep 20 2024 20:23:36 GMT+0800 (GMT+08:00)
+更新日期：Fri Sep 27 2024 22:03:52 GMT+0800 (GMT+08:00)
 
 - id: 8927，名字：泰拉饭OST
 - id: 5196，名字：太阳甩在身后OST

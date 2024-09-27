@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Fri Sep 20 2024 20:23:36 GMT+0800 (GMT+08:00)
+更新日期：Fri Sep 27 2024 22:03:52 GMT+0800 (GMT+08:00)
 
 - id: 461137，名字：嚎叫进食进行曲
 - id: 779474，名字：地下城探秘
