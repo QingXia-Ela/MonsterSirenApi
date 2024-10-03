@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Fri Sep 27 2024 22:03:52 GMT+0800 (GMT+08:00)
+更新日期：Thu Oct 03 2024 10:56:02 GMT+0800 (GMT+08:00)
 
+- id: 1013，名字：矢量突破OST
 - id: 8927，名字：泰拉饭OST
 - id: 5196，名字：太阳甩在身后OST
 - id: 4514，名字：Nightmare's Descent
