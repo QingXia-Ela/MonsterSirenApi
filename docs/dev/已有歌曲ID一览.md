@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Thu Oct 03 2024 10:56:02 GMT+0800 (GMT+08:00)
+更新日期：Wed Oct 16 2024 10:14:42 GMT+0800 (GMT+08:00)
 
+- id: 306891，名字：Reforge(Instrumental)
+- id: 953965，名字：Reforge
 - id: 779473，名字：Challenger
 - id: 953966，名字：Inference
 - id: 125058，名字：Neo-vector
