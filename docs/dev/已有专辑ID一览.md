@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Wed Oct 16 2024 10:14:42 GMT+0800 (GMT+08:00)
+更新日期：Tue Oct 22 2024 15:31:56 GMT+0800 (GMT+08:00)
 
 - id: 2448，名字：Reforge
 - id: 1013，名字：矢量突破OST
