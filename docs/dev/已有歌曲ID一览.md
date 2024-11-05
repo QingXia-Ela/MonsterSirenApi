@@ -1,7 +1,12 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Tue Oct 22 2024 15:31:56 GMT+0800 (GMT+08:00)
+更新日期：Tue Nov 05 2024 12:32:29 GMT+0800 (GMT+08:00)
 
+- id: 125057，名字：Figure It Out (Instrumental)
+- id: 048784，名字：Figure It Out
+- id: 514529，名字：Bloodstained Oath
+- id: 697600，名字：Unmask (Instrumental)
+- id: 232242，名字：Unmask
 - id: 306891，名字：Reforge(Instrumental)
 - id: 953965，名字：Reforge
 - id: 779473，名字：Challenger

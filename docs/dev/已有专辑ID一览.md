@@ -1,7 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Tue Oct 22 2024 15:31:56 GMT+0800 (GMT+08:00)
+更新日期：Tue Nov 05 2024 12:32:29 GMT+0800 (GMT+08:00)
 
+- id: 9370，名字：Figure It Out
+- id: 4505，名字：Bloodstained Oath
+- id: 0231，名字：Unmask
 - id: 2448，名字：Reforge
 - id: 1013，名字：矢量突破OST
 - id: 8927，名字：泰拉饭OST
