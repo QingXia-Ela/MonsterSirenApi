@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Tue Nov 05 2024 12:32:29 GMT+0800 (GMT+08:00)
+更新日期：Sat Nov 09 2024 10:35:27 GMT+0800 (GMT+08:00)
 
 - id: 9370，名字：Figure It Out
 - id: 4505，名字：Bloodstained Oath
