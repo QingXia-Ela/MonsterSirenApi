@@ -1,7 +1,16 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sat Nov 09 2024 10:35:27 GMT+0800 (GMT+08:00)
+更新日期：Mon Dec 02 2024 09:55:27 GMT+0800 (GMT+08:00)
 
+- id: 461136，名字：Restore
+- id: 880318，名字：Protocol
+- id: 953964，名字：Parade Begins!
+- id: 697609，名字：Who's hiding?
+- id: 306890，名字：AmbiguousMorality(Instrumental)
+- id: 779472，名字：AmbiguousMorality
+- id: 232241，名字：MenacingDance
+- id: 461135，名字：DontWastetheJoke
+- id: 048783，名字：Il Signore del Carnevale
 - id: 125057，名字：Figure It Out (Instrumental)
 - id: 048784，名字：Figure It Out
 - id: 514529，名字：Bloodstained Oath
