@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Mon Dec 02 2024 09:55:27 GMT+0800 (GMT+08:00)
+更新日期：Mon Dec 09 2024 14:57:52 GMT+0800 (GMT+08:00)
 
+- id: 514528，名字：Sailing For (Instrumental)
+- id: 880317，名字：Sailing For
 - id: 461136，名字：Restore
 - id: 880318，名字：Protocol
 - id: 953964，名字：Parade Begins!

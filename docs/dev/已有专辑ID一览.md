@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Mon Dec 02 2024 09:55:27 GMT+0800 (GMT+08:00)
+更新日期：Mon Dec 09 2024 14:57:52 GMT+0800 (GMT+08:00)
 
+- id: 6654，名字：Sailing For
 - id: 7769，名字：卫戍协议OST
 - id: 3882，名字：揭幕者们OST
 - id: 9370，名字：Figure It Out
