@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Mon Dec 09 2024 14:57:52 GMT+0800 (GMT+08:00)
+更新日期：Wed Dec 18 2024 11:20:53 GMT+0800 (GMT+08:00)
 
+- id: 8926，名字：A Toda Vela
 - id: 6654，名字：Sailing For
 - id: 7769，名字：卫戍协议OST
 - id: 3882，名字：揭幕者们OST
