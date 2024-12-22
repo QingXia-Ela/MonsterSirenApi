@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Wed Dec 18 2024 11:20:53 GMT+0800 (GMT+08:00)
+更新日期：Sun Dec 22 2024 22:06:32 GMT+0800 (GMT+08:00)
 
+- id: 232240，名字：WE
 - id: 048782，名字：Bailar en la Cuerda Floja
 - id: 779471，名字：El Puerto de la Sal
 - id: 125055，名字：El Muerto Vivo
