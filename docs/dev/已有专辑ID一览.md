@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Mon Jan 06 2025 11:59:09 GMT+0800 (GMT+08:00)
+更新日期：Thu Jan 23 2025 00:08:23 GMT+0800 (GMT+08:00)
 
+- id: 7768，名字：滋味常
 - id: 6653，名字：Tranquil Snow
 - id: 2447，名字：WE
 - id: 8926，名字：A Toda Vela
