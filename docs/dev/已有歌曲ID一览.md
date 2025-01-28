@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Thu Jan 23 2025 00:08:23 GMT+0800 (GMT+08:00)
+更新日期：Tue Jan 28 2025 13:10:00 GMT+0800 (GMT+08:00)
 
+- id: 697608，名字：烛影暖
 - id: 514527，名字：滋味常 (Instrumental)
 - id: 461134，名字：滋味常
 - id: 306899，名字：Tranquil Snow
