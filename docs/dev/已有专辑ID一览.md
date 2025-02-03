@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Tue Jan 28 2025 13:10:00 GMT+0800 (GMT+08:00)
+更新日期：Mon Feb 03 2025 13:28:54 GMT+0800 (GMT+08:00)
 
+- id: 0230，名字：相见欢OST
+- id: 5195，名字：此时圆
 - id: 3881，名字：烛影暖
 - id: 7768，名字：滋味常
 - id: 6653，名字：Tranquil Snow
