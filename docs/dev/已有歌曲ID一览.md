@@ -1,7 +1,12 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Mon Feb 03 2025 13:28:54 GMT+0800 (GMT+08:00)
+更新日期：Wed Feb 19 2025 21:37:39 GMT+0800 (GMT+08:00)
 
+- id: 514526，名字：See you soon
+- id: 306898，名字：Epilogue
+- id: 697607，名字：Purification
+- id: 125054，名字：Battleplan Extinguished Sins (Instrumental)
+- id: 232249，名字：Battleplan Extinguished Sins
 - id: 779470，名字：天下一白
 - id: 953962，名字：枯枰竞
 - id: 048781，名字：火曜门楹
