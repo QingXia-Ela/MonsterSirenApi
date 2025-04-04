@@ -1,7 +1,31 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sun Mar 02 2025 02:17:16 GMT+0800 (GMT+08:00)
+更新日期：Fri Apr 04 2025 21:47:26 GMT+0800 (GMT+08:00)
 
+- id: 880312，名字：......已至。
+- id: 125051，名字：舍盘持难题纳婆罗为谛
+- id: 306895，名字：Malihirmam Benevolentes
+- id: 514523，名字：Sura Saraǧul'tee (Arise My Friends)
+- id: 306896，名字：Nar'aejeph Saralteri (No Alternatives)
+- id: 779478，名字：Judged by A Hero
+- id: 232247，名字：Tried by Souls
+- id: 514524，名字：Tested by Life
+- id: 048789，名字：终点——
+- id: 953960，名字：Whitely Glimmers the Land of Laws
+- id: 125052，名字：Steadly Unfolds the City of Souls
+- id: 461131，名字：Resolutely Burns the Fire of Lives
+- id: 697605，名字：Tower Attack!
+- id: 880313，名字：(Re)union stream
+- id: 697606，名字：绿茵大合唱
+- id: 232248，名字：罗德行进曲
+- id: 306897，名字：恤我以酒
+- id: 880314，名字：飨谁以歌
+- id: 779479，名字：守灵夜尽
+- id: 048780，名字：开赴迷雾之中
+- id: 461132，名字：幻象斑驳
+- id: 953961，名字：此夜一息尚存
+- id: 514525，名字：Final Embrace (Instrumental)
+- id: 125053，名字：Final Embrace
 - id: 514526，名字：See you soon
 - id: 306898，名字：Epilogue
 - id: 697607，名字：Purification

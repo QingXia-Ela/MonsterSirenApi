@@ -1,7 +1,12 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Sun Mar 02 2025 02:17:16 GMT+0800 (GMT+08:00)
+更新日期：Fri Apr 04 2025 21:47:26 GMT+0800 (GMT+08:00)
 
+- id: 1011，名字：萨卡兹的无终奇语OST
+- id: 9378，名字：ARKnoNIGHTS
+- id: 4503，名字：促融共竞#1 OST
+- id: 7767，名字：挽歌燃烧殆尽OST
+- id: 2446，名字：Final Embrace
 - id: 4504，名字：我们明日见OST
 - id: 1012，名字： Epilogue
 - id: 9379，名字：危机合约净罪作战OST
