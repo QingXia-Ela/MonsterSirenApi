@@ -1,7 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Fri Apr 04 2025 21:47:26 GMT+0800 (GMT+08:00)
+更新日期：Sat Apr 26 2025 02:09:58 GMT+0800 (GMT+08:00)
 
+- id: 0239，名字：明日方舟OST5
+- id: 3880，名字：From Ash to Fire
+- id: 8925，名字：Skeletal Wings 
 - id: 1011，名字：萨卡兹的无终奇语OST
 - id: 9378，名字：ARKnoNIGHTS
 - id: 4503，名字：促融共竞#1 OST
