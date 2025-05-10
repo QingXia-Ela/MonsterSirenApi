@@ -1,7 +1,21 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sat Apr 26 2025 02:09:58 GMT+0800 (GMT+08:00)
+更新日期：Sat May 10 2025 11:38:32 GMT+0800 (GMT+08:00)
 
+- id: 125042，名字：Sanctuary Inside
+- id: 880309，名字：Somniomancer [null set]
+- id: 697690，名字：Underneath the Sanctuary
+- id: 048772，名字：The Birth
+- id: 125041，名字：Faith Enlightenment
+- id: 232235，名字：The Pilgrimage
+- id: 306883，名字：Halo Universalization
+- id: 232236，名字：Touch of the Law
+- id: 306884，名字：Still the Same (Instrumental)
+- id: 461129，名字：Still the Same
+- id: 880300，名字：Sanctuary Inside (Instrumental)
+- id: 514518，名字：Heavenly Me (Instrumental)
+- id: 953957，名字：Heavenly Me
+- id: 697691，名字：No Bet, No Life
 - id: 779465，名字：四时谣
 - id: 048773，名字：殷红君主
 - id: 779466，名字：命运急湍

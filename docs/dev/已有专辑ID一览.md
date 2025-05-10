@@ -1,7 +1,12 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Sat Apr 26 2025 02:09:58 GMT+0800 (GMT+08:00)
+更新日期：Sat May 10 2025 11:38:32 GMT+0800 (GMT+08:00)
 
+- id: 5193，名字：众生行记OST
+- id: 7766，名字：Still the Same
+- id: 5194，名字：Sanctuary Inside
+- id: 9377，名字：Heavenly Me
+- id: 6652，名字：争锋频道：青草城OST
 - id: 0239，名字：明日方舟OST5
 - id: 3880，名字：From Ash to Fire
 - id: 8925，名字：Skeletal Wings 
