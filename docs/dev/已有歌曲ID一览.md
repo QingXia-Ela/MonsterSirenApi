@@ -1,8 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sat May 10 2025 11:38:32 GMT+0800 (GMT+08:00)
+更新日期：Mon May 19 2025 19:37:47 GMT+0800 (GMT+08:00)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 779464，名字：无机物
 - id: 880309，名字：Somniomancer [null set]
 - id: 697690，名字：Underneath the Sanctuary
 - id: 048772，名字：The Birth

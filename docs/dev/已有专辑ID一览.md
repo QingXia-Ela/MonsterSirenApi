@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Sat May 10 2025 11:38:32 GMT+0800 (GMT+08:00)
+更新日期：Mon May 19 2025 19:37:47 GMT+0800 (GMT+08:00)
 
+- id: 0238，名字：矢量突破无机物OST
 - id: 5193，名字：众生行记OST
 - id: 7766，名字：Still the Same
 - id: 5194，名字：Sanctuary Inside
