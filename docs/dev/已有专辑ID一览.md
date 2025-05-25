@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Mon May 19 2025 19:37:47 GMT+0800 (GMT+08:00)
+更新日期：Sun May 25 2025 10:51:48 GMT+0800 (GMT+08:00)
 
 - id: 0238，名字：矢量突破无机物OST
 - id: 5193，名字：众生行记OST

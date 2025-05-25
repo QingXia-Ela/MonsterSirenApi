@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Mon May 19 2025 19:37:47 GMT+0800 (GMT+08:00)
+更新日期：Sun May 25 2025 10:51:48 GMT+0800 (GMT+08:00)
 
 - id: 125042，名字：Sanctuary Inside
 - id: 779464，名字：无机物
