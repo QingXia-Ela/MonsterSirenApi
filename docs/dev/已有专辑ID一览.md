@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Sat May 31 2025 23:04:07 GMT+0800 (GMT+08:00)
+更新日期：Sat Jun 07 2025 13:21:28 GMT+0800 (GMT+08:00)
 
+- id: 2445，名字：红丝绒OST
+- id: 6651，名字：The After
 - id: 0238，名字：矢量突破无机物OST
 - id: 5193，名字：众生行记OST
 - id: 7766，名字：Still the Same

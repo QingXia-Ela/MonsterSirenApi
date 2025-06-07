@@ -1,8 +1,16 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sat May 31 2025 23:04:07 GMT+0800 (GMT+08:00)
+更新日期：Sat Jun 07 2025 13:21:28 GMT+0800 (GMT+08:00)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 125040，名字：Immersion
+- id: 306882，名字：Alienation
+- id: 048771，名字：Exultation
+- id: 953955，名字：Anxiety
+- id: 779463，名字：Suspense
+- id: 953956，名字：Suspense (Alt Mix)
+- id: 461128，名字：The After (Instrumental)
+- id: 514517，名字：The After
 - id: 779464，名字：无机物
 - id: 880309，名字：Somniomancer [null set]
 - id: 697690，名字：Underneath the Sanctuary
