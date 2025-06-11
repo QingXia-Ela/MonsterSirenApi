@@ -1,8 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sat Jun 07 2025 13:21:28 GMT+0800 (GMT+08:00)
+更新日期：Wed Jun 11 2025 15:53:54 GMT+0800 (GMT+08:00)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 232234，名字：Grow on My Time (Instrumental)
+- id: 697699，名字：Grow on My Time
 - id: 125040，名字：Immersion
 - id: 306882，名字：Alienation
 - id: 048771，名字：Exultation
