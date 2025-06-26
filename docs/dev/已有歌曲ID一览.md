@@ -1,8 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Wed Jun 11 2025 15:53:54 GMT+0800 (GMT+08:00)
+更新日期：Thu Jun 26 2025 21:25:47 GMT+0800 (中国标准时间)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 880308，名字：Mare Natus (Instrumental)
+- id: 461127，名字：Mare Natus
 - id: 232234，名字：Grow on My Time (Instrumental)
 - id: 697699，名字：Grow on My Time
 - id: 125040，名字：Immersion

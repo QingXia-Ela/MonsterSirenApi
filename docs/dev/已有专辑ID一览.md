@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Wed Jun 11 2025 15:53:54 GMT+0800 (GMT+08:00)
+更新日期：Thu Jun 26 2025 21:25:47 GMT+0800 (中国标准时间)
 
+- id: 3889，名字：Mare Natus
 - id: 1010，名字：Grow on My Time
 - id: 2445，名字：红丝绒OST
 - id: 6651，名字：The After
