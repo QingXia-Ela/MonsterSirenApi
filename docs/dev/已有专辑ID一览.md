@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Thu Jun 26 2025 21:25:47 GMT+0800 (中国标准时间)
+更新日期：Mon Jun 30 2025 18:39:08 GMT+0800 (中国标准时间)
 
 - id: 3889，名字：Mare Natus
 - id: 1010，名字：Grow on My Time
