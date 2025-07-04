@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Mon Jun 30 2025 18:41:28 GMT+0800 (中国标准时间)
+更新日期：Fri Jul 04 2025 20:00:19 GMT+0800 (中国标准时间)
 
 - id: 125042，名字：Sanctuary Inside
 - id: 880308，名字：Mare Natus (Instrumental)
