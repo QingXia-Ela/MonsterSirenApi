@@ -1,7 +1,11 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Fri Jul 04 2025 20:00:19 GMT+0800 (中国标准时间)
+更新日期：Tue Jul 29 2025 18:54:50 GMT+0800 (中国标准时间)
 
+- id: 0237，名字：音律联觉-熠曲丰碑原声EP
+- id: 9376，名字：Summer Fizz Pop
+- id: 8924，名字：镜中集OST
+- id: 4502，名字：惊蛰时
 - id: 3889，名字：Mare Natus
 - id: 1010，名字：Grow on My Time
 - id: 2445，名字：红丝绒OST

@@ -1,8 +1,17 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Fri Jul 04 2025 20:00:19 GMT+0800 (中国标准时间)
+更新日期：Tue Jul 29 2025 18:54:50 GMT+0800 (中国标准时间)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 880307，名字：熠曲丰碑
+- id: 953954，名字：时序花圃
+- id: 125049，名字：雾色秘访
+- id: 048770，名字：镜花水月
+- id: 779462，名字：Muse
+- id: 306881，名字：Summer Fizz Pop (Instrumental)
+- id: 514515，名字：Summer Fizz Pop
+- id: 232233，名字：秉心
+- id: 514516，名字：惊蛰时
 - id: 880308，名字：Mare Natus (Instrumental)
 - id: 461127，名字：Mare Natus
 - id: 232234，名字：Grow on My Time (Instrumental)
