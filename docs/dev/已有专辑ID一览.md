@@ -1,7 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Tue Jul 29 2025 18:54:50 GMT+0800 (中国标准时间)
+更新日期：Tue Aug 12 2025 19:08:17 GMT+0800 (中国标准时间)
 
+- id: 4501，名字：墟OST
+- id: 3888，名字：Little Wish
+- id: 8923，名字：Undaunted
 - id: 0237，名字：音律联觉-熠曲丰碑原声EP
 - id: 9376，名字：Summer Fizz Pop
 - id: 8924，名字：镜中集OST

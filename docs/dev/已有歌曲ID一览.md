@@ -1,8 +1,19 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Tue Jul 29 2025 18:54:50 GMT+0800 (中国标准时间)
+更新日期：Tue Aug 12 2025 19:08:17 GMT+0800 (中国标准时间)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 125048，名字：与你在黄昏街角相遇
+- id: 697697，名字：关掉播放器之前
+- id: 514514，名字：刀刃所栖之物
+- id: 048779，名字：夜间超速
+- id: 306880，名字：夏日潜行
+- id: 232232，名字：墟
+- id: 779461，名字：2:00 PM in Mitsukue
+- id: 461125，名字：Little Wish (Instrumental)
+- id: 953953，名字：Little Wish
+- id: 461126，名字：Undaunted (Instrumental)
+- id: 697698，名字：Undaunted
 - id: 880307，名字：熠曲丰碑
 - id: 953954，名字：时序花圃
 - id: 125049，名字：雾色秘访
