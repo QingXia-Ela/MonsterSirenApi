@@ -1,7 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Tue Aug 12 2025 19:08:17 GMT+0800 (中国标准时间)
+更新日期：Mon Aug 18 2025 19:42:13 GMT+0800 (中国标准时间)
 
+- id: 6650，名字：危机合约弧光作战OST
+- id: 7765，名字：Truth
 - id: 4501，名字：墟OST
 - id: 3888，名字：Little Wish
 - id: 8923，名字：Undaunted

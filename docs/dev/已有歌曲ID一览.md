@@ -1,8 +1,11 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Tue Aug 12 2025 19:08:17 GMT+0800 (中国标准时间)
+更新日期：Mon Aug 18 2025 19:42:13 GMT+0800 (中国标准时间)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 880305，名字：LEVIATION
+- id: 514513，名字：BATTLEPLAN ARCLIGHT
+- id: 880306，名字：Truth
 - id: 125048，名字：与你在黄昏街角相遇
 - id: 697697，名字：关掉播放器之前
 - id: 514514，名字：刀刃所栖之物
