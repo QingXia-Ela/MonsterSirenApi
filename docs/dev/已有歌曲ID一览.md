@@ -1,8 +1,9 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Wed Aug 27 2025 19:19:41 GMT+0800 (中国标准时间)
+更新日期：Fri Sep 05 2025 15:38:08 GMT+0800 (中国标准时间)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 232231，名字：in your blue eyes
 - id: 880305，名字：LEVIATION
 - id: 514513，名字：BATTLEPLAN ARCLIGHT
 - id: 880306，名字：Truth

@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Wed Aug 27 2025 19:19:41 GMT+0800 (中国标准时间)
+更新日期：Fri Sep 05 2025 15:38:08 GMT+0800 (中国标准时间)
 
+- id: 1019，名字：in your blue eyes
 - id: 6650，名字：危机合约弧光作战OST
 - id: 7765，名字：Truth
 - id: 4501，名字：墟OST
