@@ -1,8 +1,11 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Wed Sep 10 2025 18:42:04 GMT+0800 (中国标准时间)
+更新日期：Sun Sep 28 2025 11:37:11 GMT+0800 (中国标准时间)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 125046，名字：Heart of the Wild
+- id: 306888，名字：Outpost Patrol
+- id: 048777，名字：Pivot of the Future
 - id: 880304，名字：美梦必须成真
 - id: 779469，名字：玩乐时间
 - id: 232230，名字：无忧梦呓
