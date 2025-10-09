@@ -1,8 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sun Sep 28 2025 11:37:11 GMT+0800 (中国标准时间)
+更新日期：Thu Oct 09 2025 11:37:40 GMT+0800 (中国标准时间)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 125045，名字：Sealed (Instrumental)
+- id: 880303，名字：Sealed
 - id: 125046，名字：Heart of the Wild
 - id: 306888，名字：Outpost Patrol
 - id: 048777，名字：Pivot of the Future

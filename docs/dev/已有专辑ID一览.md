@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Sun Sep 28 2025 11:37:11 GMT+0800 (中国标准时间)
+更新日期：Thu Oct 09 2025 11:37:40 GMT+0800 (中国标准时间)
 
+- id: 3887，名字：Sealed
 - id: 0236，名字：次生预案OST
 - id: 2444，名字：无忧梦呓OST
 - id: 5192，名字：焰烬曙明OST
