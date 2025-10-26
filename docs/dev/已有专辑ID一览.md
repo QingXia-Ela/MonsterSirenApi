@@ -1,7 +1,25 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Wed Jun 11 2025 15:53:54 GMT+0800 (GMT+08:00)
+更新日期：Sun Oct 26 2025 19:35:41 GMT+0800 (GMT+08:00)
 
+- id: 5191，名字：促融共竞#2 OST
+- id: 1018，名字：Paper Boat
+- id: 2443，名字：反常光谱OST
+- id: 3887，名字：Sealed
+- id: 0236，名字：次生预案OST
+- id: 2444，名字：无忧梦呓OST
+- id: 5192，名字：焰烬曙明OST
+- id: 1019，名字：in your blue eyes
+- id: 6650，名字：危机合约弧光作战OST
+- id: 7765，名字：Truth
+- id: 4501，名字：墟OST
+- id: 3888，名字：Little Wish
+- id: 8923，名字：Undaunted
+- id: 0237，名字：音律联觉-熠曲丰碑原声EP
+- id: 9376，名字：Summer Fizz Pop
+- id: 8924，名字：镜中集OST
+- id: 4502，名字：惊蛰时
+- id: 3889，名字：Mare Natus
 - id: 1010，名字：Grow on My Time
 - id: 2445，名字：红丝绒OST
 - id: 6651，名字：The After

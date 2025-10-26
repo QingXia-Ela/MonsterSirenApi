@@ -1,8 +1,62 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Wed Jun 11 2025 15:53:54 GMT+0800 (GMT+08:00)
+更新日期：Sun Oct 26 2025 19:35:41 GMT+0800 (GMT+08:00)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 880393，名字：Against the Rising Tide
+- id: 048776，名字：Paper Boat (Instrumental)
+- id: 779468，名字：Paper Boat
+- id: 306887，名字：冰面之下
+- id: 697694，名字：树皮鞋
+- id: 232239，名字：纯白礼赞
+- id: 953950，名字：ложь
+- id: 461122，名字：无序频谱
+- id: 514511，名字：反常光谱
+- id: 125045，名字：Sealed (Instrumental)
+- id: 880303，名字：Sealed
+- id: 125046，名字：Heart of the Wild
+- id: 306888，名字：Outpost Patrol
+- id: 048777，名字：Pivot of the Future
+- id: 880304，名字：美梦必须成真
+- id: 779469，名字：玩乐时间
+- id: 232230，名字：无忧梦呓
+- id: 514512，名字：领袖
+- id: 953951，名字：觉醒
+- id: 697695，名字：黑蛇
+- id: 461123，名字：火光
+- id: 697696，名字：阿丽娜
+- id: 048778，名字：前路
+- id: 125047，名字：日常
+- id: 461124，名字：平静
+- id: 306889，名字：家人
+- id: 779460，名字：W
+- id: 953952，名字：焰烬曙明
+- id: 232231，名字：in your blue eyes
+- id: 880305，名字：LEVIATION
+- id: 514513，名字：BATTLEPLAN ARCLIGHT
+- id: 880306，名字：Truth
+- id: 125048，名字：与你在黄昏街角相遇
+- id: 697697，名字：关掉播放器之前
+- id: 514514，名字：刀刃所栖之物
+- id: 048779，名字：夜间超速
+- id: 306880，名字：夏日潜行
+- id: 232232，名字：墟
+- id: 779461，名字：2:00 PM in Mitsukue
+- id: 461125，名字：Little Wish (Instrumental)
+- id: 953953，名字：Little Wish
+- id: 461126，名字：Undaunted (Instrumental)
+- id: 697698，名字：Undaunted
+- id: 880307，名字：熠曲丰碑
+- id: 953954，名字：时序花圃
+- id: 125049，名字：雾色秘访
+- id: 048770，名字：镜花水月
+- id: 779462，名字：Muse
+- id: 306881，名字：Summer Fizz Pop (Instrumental)
+- id: 514515，名字：Summer Fizz Pop
+- id: 232233，名字：秉心
+- id: 514516，名字：惊蛰时
+- id: 880308，名字：Mare Natus (Instrumental)
+- id: 461127，名字：Mare Natus
 - id: 232234，名字：Grow on My Time (Instrumental)
 - id: 697699，名字：Grow on My Time
 - id: 125040，名字：Immersion
