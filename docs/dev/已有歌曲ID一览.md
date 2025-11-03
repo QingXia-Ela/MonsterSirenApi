@@ -18,6 +18,7 @@
 - id: 953950，名字：ложь
 - id: 461122，名字：无序频谱
 - id: 514511，名字：反常光谱
+- id: 125042，名字：Sanctuary Inside
 - id: 125045，名字：Sealed (Instrumental)
 - id: 880303，名字：Sealed
 - id: 125046，名字：Heart of the Wild
