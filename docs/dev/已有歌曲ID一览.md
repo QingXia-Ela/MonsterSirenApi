@@ -1,8 +1,14 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Sun Oct 26 2025 19:35:41 GMT+0800 (GMT+08:00)
+更新日期：Mon Nov 03 2025 12:27:57 GMT+0800 (GMT+08:00)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 461110，名字：Stardust on Me (Instrumental)
+- id: 514502，名字：Stardust on Me
+- id: 953944，名字：Follow Your Heart (Instrumental)
+- id: 779459，名字：Follow Your Heart
+- id: 232221，名字：The Walk (Instrumental)
+- id: 306875，名字：The Walk
 - id: 880393，名字：Against the Rising Tide
 - id: 048776，名字：Paper Boat (Instrumental)
 - id: 779468，名字：Paper Boat
