@@ -1,7 +1,10 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Mon Nov 03 2025 12:27:57 GMT+0800 (GMT+08:00)
+更新日期：Sat Nov 22 2025 13:24:53 GMT+0800 (GMT+08:00)
 
+- id: 3886，名字：Secret Escape
+- id: 7764，名字：卫戍协议盟约OST
+- id: 8922，名字：雪山降临1101 OST
 - id: 6659，名字：Follow Your Heart
 - id: 4500，名字：Stardust on Me
 - id: 9375，名字：The Walk

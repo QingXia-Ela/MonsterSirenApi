@@ -1,8 +1,18 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Mon Nov 03 2025 12:27:57 GMT+0800 (GMT+08:00)
+更新日期：Sat Nov 22 2025 13:24:53 GMT+0800 (GMT+08:00)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 306874，名字：Secret Escape (Instrumental)
+- id: 461119，名字：Secret Escape
+- id: 232220，名字：Theoretical Simulation
+- id: 880392，名字：希瓦艾什变例
+- id: 514501，名字：当祂入眠
+- id: 697685，名字：心之呼号
+- id: 953943，名字：圣女蒙召
+- id: 697686，名字：雪境歧路
+- id: 125038，名字：异象
+- id: 048767，名字：雪山降临1101
 - id: 461110，名字：Stardust on Me (Instrumental)
 - id: 514502，名字：Stardust on Me
 - id: 953944，名字：Follow Your Heart (Instrumental)
@@ -18,7 +28,6 @@
 - id: 953950，名字：ложь
 - id: 461122，名字：无序频谱
 - id: 514511，名字：反常光谱
-- id: 125042，名字：Sanctuary Inside
 - id: 125045，名字：Sealed (Instrumental)
 - id: 880303，名字：Sealed
 - id: 125046，名字：Heart of the Wild
