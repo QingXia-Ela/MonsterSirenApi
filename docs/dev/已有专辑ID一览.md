@@ -1,7 +1,8 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Sat Nov 22 2025 13:24:53 GMT+0800 (GMT+08:00)
+更新日期：Fri Dec 05 2025 11:17:27 GMT+0800 (GMT+08:00)
 
+- id: 1017，名字：Just Another Inch Higher
 - id: 3886，名字：Secret Escape
 - id: 7764，名字：卫戍协议盟约OST
 - id: 8922，名字：雪山降临1101 OST
