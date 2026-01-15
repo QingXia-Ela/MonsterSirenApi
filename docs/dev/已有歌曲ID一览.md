@@ -1,8 +1,22 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Fri Dec 05 2025 11:17:27 GMT+0800 (GMT+08:00)
+更新日期：Fri Jan 16 2026 00:00:08 GMT+0800 (GMT+08:00)
 
 - id: 125042，名字：Sanctuary Inside
+- id: 953941，名字：The Proclamation
+- id: 125035，名字：A Thousand Shattered Hopes
+- id: 697683，名字：Never-Forgetting, Never-Forgiving
+- id: 125036，名字：Dance Of Athenius
+- id: 461118，名字：Beneath The Cloudless Sky
+- id: 779457，名字：Wanna Know Me (Too Bad) (Instrumental)
+- id: 697684，名字：Wanna Know Me? (Too Bad)
+- id: 232229，名字：Slowly Flow, Hearthlight Glow (Instrumental)
+- id: 514500，名字：Slowly Flow, Hearthlight Glow
+- id: 953942，名字：回溯
+- id: 880391，名字：The Way You Ignited the Sky
+- id: 048765，名字：递归
+- id: 306873，名字：Dr Oxygen Ready For Launch!
+- id: 048766，名字：O What a Spacely Cystybeast
 - id: 779458，名字：Just Another Inch Higher (Instrumental)
 - id: 125037，名字：Just Another Inch Higher
 - id: 306874，名字：Secret Escape (Instrumental)

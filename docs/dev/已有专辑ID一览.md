@@ -1,7 +1,11 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Fri Dec 05 2025 11:17:27 GMT+0800 (GMT+08:00)
+更新日期：Fri Jan 16 2026 00:00:08 GMT+0800 (GMT+08:00)
 
+- id: 0235，名字：雅赛努斯复仇记OST
+- id: 8921，名字：Wanna Know Me? (Too Bad)
+- id: 6658，名字：Slowly Flow, Hearthlight Glow
+- id: 7763，名字：未许之地OST
 - id: 1017，名字：Just Another Inch Higher
 - id: 3886，名字：Secret Escape
 - id: 7764，名字：卫戍协议盟约OST
