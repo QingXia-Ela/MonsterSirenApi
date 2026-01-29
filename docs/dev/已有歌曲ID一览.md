@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/songs
 
-更新日期：Fri Jan 16 2026 12:37:33 GMT+0800 (GMT+08:00)
+更新日期：Thu Jan 29 2026 22:17:10 GMT+0800 (GMT+08:00)
 
 - id: 125042，名字：Sanctuary Inside
 - id: 953941，名字：The Proclamation

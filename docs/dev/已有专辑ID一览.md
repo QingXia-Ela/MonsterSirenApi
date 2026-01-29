@@ -1,6 +1,6 @@
 来源于：https://monster-siren.hypergryph.com/api/albums
 
-更新日期：Fri Jan 16 2026 12:37:33 GMT+0800 (GMT+08:00)
+更新日期：Thu Jan 29 2026 22:17:10 GMT+0800 (GMT+08:00)
 
 - id: 0235，名字：雅赛努斯复仇记OST
 - id: 8921，名字：Wanna Know Me? (Too Bad)
